@@ -1,0 +1,35 @@
+d=3 base  2: 1 attractors, cycle lengths [1], fixed points ['011']  <== UNIQUE 011
+d=3 base  3: 1 attractors, cycle lengths [2], fixed points []
+d=3 base  4: 1 attractors, cycle lengths [1], fixed points ['132']  <== UNIQUE 132
+d=3 base  5: 1 attractors, cycle lengths [2], fixed points []
+d=3 base  6: 1 attractors, cycle lengths [1], fixed points ['253']  <== UNIQUE 253
+d=3 base  7: 1 attractors, cycle lengths [2], fixed points []
+d=3 base  8: 1 attractors, cycle lengths [1], fixed points ['374']  <== UNIQUE 374
+d=3 base  9: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 10: 1 attractors, cycle lengths [1], fixed points ['495']  <== UNIQUE 495
+d=3 base 11: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 12: 1 attractors, cycle lengths [1], fixed points ['5b6']  <== UNIQUE 5b6
+d=3 base 13: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 14: 1 attractors, cycle lengths [1], fixed points ['6d7']  <== UNIQUE 6d7
+d=3 base 15: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 16: 1 attractors, cycle lengths [1], fixed points ['7f8']  <== UNIQUE 7f8
+d=3 base 17: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 18: 1 attractors, cycle lengths [1], fixed points ['8h9']  <== UNIQUE 8h9
+d=3 base 19: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 20: 1 attractors, cycle lengths [1], fixed points ['9ja']  <== UNIQUE 9ja
+d=3 base 21: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 22: 1 attractors, cycle lengths [1], fixed points ['alb']  <== UNIQUE alb
+d=3 base 23: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 24: 1 attractors, cycle lengths [1], fixed points ['bnc']  <== UNIQUE bnc
+d=3 base 25: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 26: 1 attractors, cycle lengths [1], fixed points ['cpd']  <== UNIQUE cpd
+d=3 base 27: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 28: 1 attractors, cycle lengths [1], fixed points ['dre']  <== UNIQUE dre
+d=3 base 29: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 30: 1 attractors, cycle lengths [1], fixed points ['etf']  <== UNIQUE etf
+d=3 base 31: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 32: 1 attractors, cycle lengths [1], fixed points ['fvg']  <== UNIQUE fvg
+d=3 base 33: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 34: 1 attractors, cycle lengths [1], fixed points ['gxh']  <== UNIQUE gxh
+d=3 base 35: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 36: 1 attractors, cycle lengths [1], fixed points ['hzi']  <== UNIQUE hzi

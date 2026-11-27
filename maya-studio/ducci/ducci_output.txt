@@ -1,0 +1,26 @@
+3 rand max P 3 all P [3] | bin exh 3 | (1+x) orbit of 1: tail 1 P 3 | max tail 5271
+4 rand max P 1 all P [1] | bin exh 1 | (1+x) orbit of 1: tail 4 P 1 | max tail 9
+5 rand max P 15 all P [15] | bin exh 15 | (1+x) orbit of 1: tail 1 P 15 | max tail 445
+6 rand max P 6 all P [3, 6] | bin exh 6 | (1+x) orbit of 1: tail 2 P 6 | max tail 476
+7 rand max P 7 all P [7] | bin exh 7 | (1+x) orbit of 1: tail 1 P 7 | max tail 178
+8 rand max P 1 all P [1] | bin exh 1 | (1+x) orbit of 1: tail 8 P 1 | max tail 45
+9 rand max P 63 all P [3, 63] | bin exh 63 | (1+x) orbit of 1: tail 1 P 63 | max tail 325
+10 rand max P 30 all P [15, 30] | bin exh 30 | (1+x) orbit of 1: tail 2 P 30 | max tail 541
+11 rand max P 341 all P [341] | bin exh 341 | (1+x) orbit of 1: tail 1 P 341 | max tail 141
+12 rand max P 12 all P [3, 6, 12] | bin exh 12 | (1+x) orbit of 1: tail 4 P 12 | max tail 304
+13 rand max P 819 all P [819] | bin exh 819 | (1+x) orbit of 1: tail 1 P 819 | max tail 167
+14 rand max P 14 all P [7, 14] | bin exh 14 | (1+x) orbit of 1: tail 2 P 14 | max tail 200
+15 rand max P 15 all P [5, 15] | bin exh 15 | (1+x) orbit of 1: tail 1 P 15 | max tail 314
+16 rand max P 1 all P [1] | bin exh 1 | (1+x) orbit of 1: tail 16 P 1 | max tail 122
+17 rand max P 255 all P [85, 255] | bin exh 255 | (1+x) orbit of 1: tail 1 P 255 | max tail 670
+18 rand max P 126 all P [63, 126] | bin exh 126 | (1+x) orbit of 1: tail 2 P 126 | max tail 359
+19 rand max P 9709 all P [9709] | bin exh None | (1+x) orbit of 1: tail 1 P 9709 | max tail 281
+20 rand max P 60 all P [30, 60] | bin exh None | (1+x) orbit of 1: tail 4 P 60 | max tail 673
+21 rand max P 63 all P [63] | bin exh None | (1+x) orbit of 1: tail 1 P 63 | max tail 253
+22 rand max P 682 all P [682] | bin exh None | (1+x) orbit of 1: tail 2 P 682 | max tail 299
+23 rand max P 2047 all P [2047] | bin exh None | (1+x) orbit of 1: tail 1 P 2047 | max tail 286
+24 rand max P 24 all P [12, 24] | bin exh None | (1+x) orbit of 1: tail 8 P 24 | max tail 806
+25 rand max P 25575 all P [25575] | bin exh None | (1+x) orbit of 1: tail 1 P 25575 | max tail 265
+26 rand max P 1638 all P [1638] | bin exh None | (1+x) orbit of 1: tail 2 P 1638 | max tail 350
+27 rand max P 13797 all P [13797] | bin exh None | (1+x) orbit of 1: tail 1 P 13797 | max tail 311
+28 rand max P 28 all P [28] | bin exh None | (1+x) orbit of 1: tail 4 P 28 | max tail 1694

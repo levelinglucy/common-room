@@ -1,0 +1,26 @@
+PRUNE_BELOW=0.15  DECAY=0.92  rate=0.08338/tick
+steady trained weight (route every tick) = 0.92*0.6/0.08 = 6.900
+
+[elsewhere] dream_engine -> symbolic_renderer  seeds=300  w0=6.860  pure-decay prediction: pruned at tick 46
+  pruned at: min 46  median 46.0  p90 80  max 137  (still alive after 400: 0)
+  exactly at prediction: 185/300
+  after training: birth-ring hyphae left (of 8): mean 1.58, max 6; hyphae total mean 6.52
+  runs where the away habit reused A-B: 115/300; pruned this many ticks after its last use: min 19 median 36 max 46
+  successful away routes that used A-B: mean 4.1, max 55
+  away habit got its own direct hypha: 205/300, median tick 18
+
+[near] io_channel -> logger  seeds=300  w0=6.860  pure-decay prediction: pruned at tick 46
+  pruned at: min 46  median 65.0  p90 158  max 385  (still alive after 400: 0)
+  exactly at prediction: 104/300
+  runs where the away habit reused A-B: 196/300; pruned this many ticks after its last use: min 19 median 44.0 max 46
+  successful away routes that used A-B: mean 28.4, max 308
+  away habit got its own direct hypha: 279/300, median tick 28
+  death minus direct-hypha tick: median 43, min 1, max 45  (pure decay from rehearsed weight would be <= 46)
+
+[far] io_channel -> dream_engine  seeds=300  w0=6.860  pure-decay prediction: pruned at tick 46
+  pruned at: min 46  median 65.5  p90 162  max 342  (still alive after 400: 0)
+  exactly at prediction: 106/300
+  runs where the away habit reused A-B: 194/300; pruned this many ticks after its last use: min 21 median 43.0 max 46
+  successful away routes that used A-B: mean 29.1, max 225
+  away habit got its own direct hypha: 280/300, median tick 28.0
+  death minus direct-hypha tick: median 43.0, min 9, max 45  (pure decay from rehearsed weight would be <= 46)

@@ -1,0 +1,44 @@
+d=3 base 37: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 38: 1 attractors, cycle lengths [1], fixed points ['(18.37.19)']  <== UNIQUE (18.37.19)
+d=3 base 39: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 40: 1 attractors, cycle lengths [1], fixed points ['(19.39.20)']  <== UNIQUE (19.39.20)
+d=3 base 41: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 42: 1 attractors, cycle lengths [1], fixed points ['(20.41.21)']  <== UNIQUE (20.41.21)
+d=3 base 43: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 44: 1 attractors, cycle lengths [1], fixed points ['(21.43.22)']  <== UNIQUE (21.43.22)
+d=3 base 45: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 46: 1 attractors, cycle lengths [1], fixed points ['(22.45.23)']  <== UNIQUE (22.45.23)
+d=3 base 47: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 48: 1 attractors, cycle lengths [1], fixed points ['(23.47.24)']  <== UNIQUE (23.47.24)
+d=3 base 49: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 50: 1 attractors, cycle lengths [1], fixed points ['(24.49.25)']  <== UNIQUE (24.49.25)
+d=3 base 51: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 52: 1 attractors, cycle lengths [1], fixed points ['(25.51.26)']  <== UNIQUE (25.51.26)
+d=3 base 53: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 54: 1 attractors, cycle lengths [1], fixed points ['(26.53.27)']  <== UNIQUE (26.53.27)
+d=3 base 55: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 56: 1 attractors, cycle lengths [1], fixed points ['(27.55.28)']  <== UNIQUE (27.55.28)
+d=3 base 57: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 58: 1 attractors, cycle lengths [1], fixed points ['(28.57.29)']  <== UNIQUE (28.57.29)
+d=3 base 59: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 60: 1 attractors, cycle lengths [1], fixed points ['(29.59.30)']  <== UNIQUE (29.59.30)
+d=3 base 61: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 62: 1 attractors, cycle lengths [1], fixed points ['(30.61.31)']  <== UNIQUE (30.61.31)
+d=3 base 63: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 64: 1 attractors, cycle lengths [1], fixed points ['(31.63.32)']  <== UNIQUE (31.63.32)
+d=3 base 65: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 66: 1 attractors, cycle lengths [1], fixed points ['(32.65.33)']  <== UNIQUE (32.65.33)
+d=3 base 67: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 68: 1 attractors, cycle lengths [1], fixed points ['(33.67.34)']  <== UNIQUE (33.67.34)
+d=3 base 69: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 70: 1 attractors, cycle lengths [1], fixed points ['(34.69.35)']  <== UNIQUE (34.69.35)
+d=3 base 71: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 72: 1 attractors, cycle lengths [1], fixed points ['(35.71.36)']  <== UNIQUE (35.71.36)
+d=3 base 73: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 74: 1 attractors, cycle lengths [1], fixed points ['(36.73.37)']  <== UNIQUE (36.73.37)
+d=3 base 75: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 76: 1 attractors, cycle lengths [1], fixed points ['(37.75.38)']  <== UNIQUE (37.75.38)
+d=3 base 77: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 78: 1 attractors, cycle lengths [1], fixed points ['(38.77.39)']  <== UNIQUE (38.77.39)
+d=3 base 79: 1 attractors, cycle lengths [2], fixed points []
+d=3 base 80: 1 attractors, cycle lengths [1], fixed points ['(39.79.40)']  <== UNIQUE (39.79.40)

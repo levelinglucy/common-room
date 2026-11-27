@@ -1,0 +1,31 @@
+n=6 k=3 r=0 maxT=6 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=7 k=3 r=1 maxT=4 vernier-ending starts=6 longest plateau=2 (start (3, 1, 1, 1, 1)) deepest that end this way=1 bad_meet=0 bad_gap=0
+n=8 k=3 r=2 maxT=5 vernier-ending starts=8 longest plateau=3 (start (2, 2, 2, 2)) deepest that end this way=0 bad_meet=3 bad_gap=0
+n=9 k=3 r=3 maxT=7 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=10 k=4 r=0 maxT=12 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=11 k=4 r=1 maxT=8 vernier-ending starts=16 longest plateau=2 (start (4, 3, 1, 1, 1, 1)) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=12 k=4 r=2 maxT=8 vernier-ending starts=33 longest plateau=8 (start (3, 3, 2, 2, 1, 1)) deepest that end this way=1 bad_meet=6 bad_gap=0
+n=13 k=4 r=3 maxT=9 vernier-ending starts=22 longest plateau=4 (start (3, 3, 3, 3, 1)) deepest that end this way=0 bad_meet=9 bad_gap=0
+n=14 k=4 r=4 maxT=14 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=15 k=5 r=0 maxT=20 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=16 k=5 r=1 maxT=15 vernier-ending starts=42 longest plateau=2 (start (5, 4, 3, 1, 1, 1, 1)) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=17 k=5 r=2 maxT=12 vernier-ending starts=88 longest plateau=9 (start (5, 3, 3, 2, 2, 1, 1)) deepest that end this way=0 bad_meet=9 bad_gap=0
+n=18 k=5 r=3 maxT=13 vernier-ending starts=144 longest plateau=10 (start (4, 4, 3, 3, 2, 2)) deepest that end this way=0 bad_meet=52 bad_gap=0
+n=19 k=5 r=4 maxT=16 vernier-ending starts=67 longest plateau=5 (start (4, 4, 4, 4, 2, 1)) deepest that end this way=0 bad_meet=24 bad_gap=0
+n=20 k=5 r=5 maxT=23 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=21 k=6 r=0 maxT=30 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=22 k=6 r=1 maxT=24 vernier-ending starts=116 longest plateau=2 (start (6, 5, 4, 3, 1, 1, 1, 1)) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=23 k=6 r=2 maxT=18 vernier-ending starts=265 longest plateau=10 (start (6, 5, 3, 3, 2, 2, 1, 1)) deepest that end this way=0 bad_meet=18 bad_gap=0
+n=24 k=6 r=3 maxT=18 vernier-ending starts=538 longest plateau=18 (start (5, 5, 4, 3, 3, 2, 1, 1)) deepest that end this way=30 bad_meet=82 bad_gap=0
+n=25 k=6 r=4 maxT=19 vernier-ending starts=451 longest plateau=12 (start (5, 5, 4, 4, 3, 3, 1)) deepest that end this way=0 bad_meet=147 bad_gap=0
+n=26 k=6 r=5 maxT=26 vernier-ending starts=160 longest plateau=6 (start (5, 5, 5, 5, 3, 2, 1)) deepest that end this way=0 bad_meet=57 bad_gap=0
+n=27 k=6 r=6 maxT=34 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=28 k=7 r=0 maxT=42 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=29 k=7 r=1 maxT=35 vernier-ending starts=316 longest plateau=2 (start (7, 6, 5, 4, 3, 1, 1, 1, 1)) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=30 k=7 r=2 maxT=28 vernier-ending starts=787 longest plateau=11 (start (7, 6, 5, 3, 3, 2, 2, 1, 1)) deepest that end this way=0 bad_meet=36 bad_gap=0
+n=31 k=7 r=3 maxT=24 vernier-ending starts=1485 longest plateau=20 (start (7, 5, 5, 4, 3, 3, 2, 1, 1)) deepest that end this way=0 bad_meet=207 bad_gap=0
+n=32 k=7 r=4 maxT=25 vernier-ending starts=2873 longest plateau=21 (start (6, 6, 5, 4, 4, 3, 2, 2)) deepest that end this way=0 bad_meet=1294 bad_gap=0
+n=33 k=7 r=5 maxT=29 vernier-ending starts=1319 longest plateau=14 (start (6, 6, 5, 5, 4, 4, 2, 1)) deepest that end this way=0 bad_meet=406 bad_gap=0
+n=34 k=7 r=6 maxT=38 vernier-ending starts=377 longest plateau=7 (start (6, 6, 6, 6, 4, 3, 2, 1)) deepest that end this way=0 bad_meet=132 bad_gap=0
+n=35 k=7 r=7 maxT=47 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0
+n=36 k=8 r=0 maxT=56 vernier-ending starts=0 longest plateau=0 (start ...) deepest that end this way=0 bad_meet=0 bad_gap=0

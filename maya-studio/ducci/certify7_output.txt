@@ -1,0 +1,32 @@
+PARI stack size set to 2000000000 bytes, maximum size set to 2000003072
+29 cubic fields with 7 | h3 among q=7 one-die primes < 30000
+877 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+1567 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+1987 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+2437 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+2557 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+3571 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+4219 certified Cl = [14, 2] units_one 0 eig2 1 eig4 0 cut 1
+4783 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+6991 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+7621 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+8563 certified Cl = [49] units_one 0 eig2 0 eig4 1 cut 0
+9319 certified Cl = [14, 2] units_one 0 eig2 0 eig4 1 cut 0
+10267 certified Cl = [7, 7] units_one 0 eig2 1 eig4 1 cut 1
+10357 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+10687 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+11071 certified Cl = [7] units_one 1 eig2 0 eig4 1 cut 1
+11083 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+13723 certified Cl = [7] units_one 1 eig2 1 eig4 0 cut 1
+16063 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+18367 certified Cl = [49] units_one 0 eig2 1 eig4 0 cut 1
+20599 certified Cl = [28, 4] units_one 0 eig2 0 eig4 1 cut 0
+20731 certified Cl = [7] units_one 1 eig2 0 eig4 1 cut 1
+21391 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+24103 certified Cl = [7] units_one 0 eig2 0 eig4 1 cut 0
+24247 certified Cl = [7] units_one 1 eig2 0 eig4 1 cut 1
+24691 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+24859 certified Cl = [7] units_one 0 eig2 1 eig4 0 cut 1
+25471 certified Cl = [7] units_one 1 eig2 0 eig4 1 cut 1
+27847 certified Cl = [7] units_one 1 eig2 1 eig4 0 cut 1
+0s

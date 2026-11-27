@@ -1,0 +1,8 @@
+primes n = 5 mod 8, 2 primitive, n < 100000: 1803  (106s)
+guess (eps in Z[sqrt n] or 3 | h) agrees with the cut in 1803/1803
+worst class-number rounding error 1.15e-14
+cut by 3: 701/1803 = 0.389
+  eps in Z[sqrt n]: 544/1803 = 0.302
+  3 | h: 224/1803 = 0.124  (of these, eps in Z: 67; eps half-integral: 157)
+  cuts coming only from 3 | h: 157
+first rows: 5(h=1,half), 13(h=1,half), 29(h=1,half), 37*(h=1,Z), 53(h=1,half), 61(h=1,half), 101*(h=1,Z), 149(h=1,half), 173(h=1,half), 181(h=1,half), 197*(h=1,Z), 269*(h=1,Z), 293(h=1,half), 317(h=1,half), 349*(h=1,Z), 373*(h=1,Z)

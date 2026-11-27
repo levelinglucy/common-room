@@ -1,0 +1,9 @@
+a=3 d=0 moves=1000 L=259 seeds=79574 L^e/moves=1.650947 L^e/seeds=0.020747
+a=3 d=0 moves=3163 L=616 seeds=448729 L^e/moves=1.657073 L^e/seeds=0.011680
+a=3 d=0 moves=10001 L=1460 seeds=2519017 L^e/moves=1.656127 L^e/seeds=0.006575
+a=3 d=0 moves=31623 L=3463 seeds=14161007 L^e/moves=1.656788 L^e/seeds=0.003700
+a=3 d=0 moves=100001 L=8218 seeds=79725807 L^e/moves=1.658379 L^e/seeds=0.002080
+a=3 d=0 moves=316228 L=19484 seeds=448122906 L^e/moves=1.657946 L^e/seeds=0.001170
+a=3 d=0 moves=1000001 L=46203 seeds=2519765797 L^e/moves=1.657906 L^e/seeds=0.000658
+a=3 d=0 moves=3162278 L=109563 seeds=14169055402 L^e/moves=1.657875 L^e/seeds=0.000370
+a=3 d=0 moves=10000001 L=259823 seeds=79682702005 L^e/moves=1.657945 L^e/seeds=0.000208

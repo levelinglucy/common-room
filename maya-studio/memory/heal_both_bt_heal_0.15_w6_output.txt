@@ -1,0 +1,8 @@
+heal weight=6.0
+variant=both_bt_heal prune_below=0.15 rare=0.1 seeds=40 burn=300 run=3000
+mean hyphae alive: 10.05
+whole body connected: 93.4% of ticks
+live rare jobs that arrived: 96.4%
+heals per 100 ticks: 0.36
+probe io_channel -> idle organ reached: 96.4%
+failed probes 683/19200: no path 683, path missed 0

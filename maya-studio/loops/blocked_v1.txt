@@ -1,0 +1,70 @@
+L= 8 mod3=2 nb=-   5/6 now=  1 in_last5=1 odd_holes=[] live=3407
+L= 8 mod3=2 nb=E   5/6 now=  6 in_last5=5 odd_holes=[3, 3, 15, 17, 6735] live=863
+L= 8 mod3=2 nb=N   5/6 now=  1 in_last5=1 odd_holes=[] live=1627
+L= 8 mod3=2 nb=W   5/6 now=  1 in_last5=1 odd_holes=[] live=2491
+L= 8 mod3=2 nb=S   5/6 now=  1 in_last5=1 odd_holes=[] live=3104
+L= 9 mod3=0 nb=-   5/6 now= 52 in_last5=5 odd_holes=[2, 2, 2, 2, 2, 2] live=3589
+L= 9 mod3=0 nb=E   5/6 now=  6 in_last5=5 odd_holes=[2, 3, 24, 27, 7687] live=930
+L= 9 mod3=0 nb=N   5/6 now=  0 in_last5=1 odd_holes=[] live=1551
+L= 9 mod3=0 nb=W   5/6 now= 17 in_last5=4 odd_holes=[2, 2, 2, 2, 2, 2] live=2366
+L= 9 mod3=0 nb=S   5/6 now= 43 in_last5=5 odd_holes=[2, 2, 2, 2, 2, 2] live=3060
+L=10 mod3=1 nb=-   5/6 now=  0 in_last5=0 odd_holes=[] live=2923
+L=10 mod3=1 nb=E   5/6 now=  5 in_last5=5 odd_holes=[3, 8, 35, 37, 595, 604] live=1751
+L=10 mod3=1 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1510
+L=10 mod3=1 nb=W   5/6 now=  0 in_last5=0 odd_holes=[] live=2304
+L=10 mod3=1 nb=S   5/6 now=  0 in_last5=0 odd_holes=[] live=2778
+L=11 mod3=2 nb=-   5/6 now=  0 in_last5=0 odd_holes=[] live=2690
+L=11 mod3=2 nb=E   5/6 now= 10 in_last5=5 odd_holes=[3, 48, 52, 9625] live=1059
+L=11 mod3=2 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1424
+L=11 mod3=2 nb=W   5/6 now=  0 in_last5=0 odd_holes=[] live=2170
+L=11 mod3=2 nb=S   5/6 now=  0 in_last5=0 odd_holes=[] live=2593
+L=12 mod3=0 nb=-   5/6 now= 36 in_last5=4 odd_holes=[2, 2, 2, 2, 2, 2] live=3241
+L=12 mod3=0 nb=E   5/6 now=  8 in_last5=5 odd_holes=[2, 3, 5, 63, 67, 10595] live=1119
+L=12 mod3=0 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1465
+L=12 mod3=0 nb=W   5/6 now= 11 in_last5=2 odd_holes=[2, 2, 2, 3, 5, 66] live=2195
+L=12 mod3=0 nb=S   5/6 now= 26 in_last5=4 odd_holes=[2, 2, 2, 2, 2, 2] live=2589
+L=13 mod3=1 nb=-   5/6 now=  0 in_last5=1 odd_holes=[] live=2659
+L=13 mod3=1 nb=E   5/6 now=  9 in_last5=5 odd_holes=[3, 5, 80, 84, 925, 926] live=2065
+L=13 mod3=1 nb=N   5/6 now=  0 in_last5=1 odd_holes=[] live=1489
+L=13 mod3=1 nb=W   5/6 now=  0 in_last5=1 odd_holes=[] live=2218
+L=13 mod3=1 nb=S   5/6 now=  0 in_last5=1 odd_holes=[] live=2604
+L=14 mod3=2 nb=-   5/6 now=  0 in_last5=1 odd_holes=[] live=2623
+L=14 mod3=2 nb=E   5/6 now= 12 in_last5=5 odd_holes=[3, 6, 99, 104, 12849] live=1247
+L=14 mod3=2 nb=N   5/6 now=  0 in_last5=1 odd_holes=[] live=1504
+L=14 mod3=2 nb=W   5/6 now=  0 in_last5=1 odd_holes=[] live=2216
+L=14 mod3=2 nb=S   5/6 now=  0 in_last5=1 odd_holes=[] live=2589
+L=15 mod3=0 nb=-   5/6 now= 63 in_last5=4 odd_holes=[2, 2, 2, 2, 2, 2] live=3086
+L=15 mod3=0 nb=E   5/6 now= 12 in_last5=5 odd_holes=[2, 3, 120, 126, 14149] live=1317
+L=15 mod3=0 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1467
+L=15 mod3=0 nb=W   5/6 now= 13 in_last5=1 odd_holes=[2, 2, 3, 124, 124] live=2121
+L=15 mod3=0 nb=S   5/6 now= 31 in_last5=4 odd_holes=[2, 2, 2, 2, 2, 3] live=2437
+L=16 mod3=1 nb=-   5/6 now=  0 in_last5=0 odd_holes=[] live=2407
+L=16 mod3=1 nb=E   5/6 now= 11 in_last5=5 odd_holes=[3, 5, 7, 143, 148, 1308] live=2369
+L=16 mod3=1 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1488
+L=16 mod3=1 nb=W   5/6 now=  0 in_last5=0 odd_holes=[] live=2128
+L=16 mod3=1 nb=S   5/6 now=  0 in_last5=0 odd_holes=[] live=2437
+L=17 mod3=2 nb=-   5/6 now=  0 in_last5=1 odd_holes=[] live=2480
+L=17 mod3=2 nb=E   5/6 now= 16 in_last5=5 odd_holes=[3, 168, 175, 16735] live=1446
+L=17 mod3=2 nb=N   5/6 now=  0 in_last5=1 odd_holes=[] live=1540
+L=17 mod3=2 nb=W   5/6 now=  0 in_last5=1 odd_holes=[] live=2195
+L=17 mod3=2 nb=S   5/6 now=  0 in_last5=1 odd_holes=[] live=2524
+L=18 mod3=0 nb=-   5/6 now= 26 in_last5=3 odd_holes=[2, 2, 2, 2, 3, 8] live=3025
+L=18 mod3=0 nb=E   5/6 now= 14 in_last5=5 odd_holes=[2, 3, 8, 195, 202, 18005] live=1503
+L=18 mod3=0 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1593
+L=18 mod3=0 nb=W   5/6 now=  0 in_last5=0 odd_holes=[] live=2256
+L=18 mod3=0 nb=S   5/6 now= 21 in_last5=3 odd_holes=[2, 2, 2, 3, 8, 200] live=2545
+L=19 mod3=1 nb=-   5/6 now=  0 in_last5=1 odd_holes=[] live=2489
+L=19 mod3=1 nb=E   5/6 now= 15 in_last5=5 odd_holes=[3, 5, 224, 231, 1765, 1768] live=2686
+L=19 mod3=1 nb=N   5/6 now=  0 in_last5=1 odd_holes=[] live=1611
+L=19 mod3=1 nb=W   5/6 now=  0 in_last5=1 odd_holes=[] live=2266
+L=19 mod3=1 nb=S   5/6 now=  0 in_last5=1 odd_holes=[] live=2581
+L=20 mod3=2 nb=-   5/6 now=  0 in_last5=0 odd_holes=[] live=2446
+L=20 mod3=2 nb=E   5/6 now= 18 in_last5=5 odd_holes=[3, 9, 255, 263, 20907] live=1631
+L=20 mod3=2 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1621
+L=20 mod3=2 nb=W   5/6 now=  0 in_last5=0 odd_holes=[] live=2255
+L=20 mod3=2 nb=S   5/6 now=  0 in_last5=0 odd_holes=[] live=2573
+L=21 mod3=0 nb=-   5/6 now= 33 in_last5=2 odd_holes=[2, 2, 2, 2, 3, 24] live=2899
+L=21 mod3=0 nb=E   5/6 now= 18 in_last5=5 odd_holes=[2, 3, 288, 297, 22555] live=1704
+L=21 mod3=0 nb=N   5/6 now=  0 in_last5=0 odd_holes=[] live=1698
+L=21 mod3=0 nb=W   5/6 now=  0 in_last5=0 odd_holes=[] live=2363
+L=21 mod3=0 nb=S   5/6 now= 27 in_last5=2 odd_holes=[2, 2, 2, 3, 294, 297] live=2654

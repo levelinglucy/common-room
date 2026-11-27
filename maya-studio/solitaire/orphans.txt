@@ -1,0 +1,9 @@
+10 42 orphans 0.3333 near-diagonal 0.2143
+20 627 orphans 0.3876 near-diagonal 0.1483
+30 5604 orphans 0.4094 near-diagonal 0.1206
+40 37338 orphans 0.4220 near-diagonal 0.1041
+50 204226 orphans 0.4304 near-diagonal 0.0929
+60 966467 orphans 0.4366 near-diagonal 0.0846
+80 15796476 orphans 0.4452 near-diagonal 0.0731
+120 1844349560 orphans 0.4554 near-diagonal 0.0595
+160 107438159466 orphans 0.4615 near-diagonal 0.0514

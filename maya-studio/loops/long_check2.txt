@@ -1,0 +1,46 @@
+L=17 s=15
+   t=1000 pieces=12 live=859 loops={'odd': 3, 17: 4}
+   t=2000 pieces=35 live=3493 loops={'odd': 10, 17: 16}
+   t=3000 pieces=81 live=10159 loops={'odd': 29, 17: 32}
+   t=4000 pieces=159 live=21756 loops={'odd': 55, 6: 1, 17: 74}
+   t=5000 pieces=245 live=35254 loops={'odd': 77, 6: 1, 17: 134}
+L=18 s=16
+   t=1000 pieces=9 live=871 loops={'odd': 4, 18: 2}
+   t=2000 pieces=55 live=3588 loops={'odd': 22, 18: 7}
+   t=3000 pieces=152 live=10509 loops={'odd': 95, 7: 1, 18: 10}
+   t=4000 pieces=266 live=14929 loops={'odd': 192, 7: 1, 18: 14}
+   t=5000 pieces=364 live=20491 loops={'odd': 275, 7: 1, 12: 2, 18: 17}
+L=19 s=17
+   t=1000 pieces=9 live=871 loops={'odd': 3, 19: 2}
+   t=2000 pieces=29 live=3030 loops={'odd': 13, 7: 2, 19: 9}
+   t=3000 pieces=95 live=9554 loops={'odd': 42, 7: 6, 9: 1, 10: 1, 19: 14}
+   t=4000 pieces=172 live=17732 loops={'odd': 86, 7: 15, 8: 1, 9: 2, 10: 3, 19: 20}
+   t=5000 pieces=234 live=26086 loops={'odd': 129, 7: 21, 8: 1, 9: 4, 10: 4, 19: 24}
+L=20 s=18
+   t=1000 pieces=13 live=844 loops={'odd': 2, 7: 1, 20: 2}
+   t=2000 pieces=28 live=2726 loops={'odd': 7, 7: 1, 20: 11}
+   t=3000 pieces=73 live=7489 loops={'odd': 22, 6: 1, 7: 3, 20: 22}
+   t=4000 pieces=131 live=16155 loops={'odd': 33, 6: 1, 7: 6, 20: 58}
+   t=5000 pieces=229 live=27914 loops={'odd': 78, 6: 1, 7: 11, 20: 82}
+L=21 s=19
+   t=1000 pieces=11 live=841 loops={'odd': 3, 21: 2}
+   t=2000 pieces=26 live=2623 loops={'odd': 6, 6: 1, 21: 6}
+   t=3000 pieces=115 live=7923 loops={'odd': 60, 6: 1, 9: 1, 21: 17}
+   t=4000 pieces=257 live=16694 loops={'odd': 116, 6: 2, 9: 1, 21: 34}
+   t=5000 pieces=444 live=27465 loops={'odd': 209, 6: 4, 9: 1, 21: 52}
+L=22 s=20
+   t=1000 pieces=11 live=836 loops={'odd': 2, 22: 2}
+   t=2000 pieces=57 live=3537 loops={'odd': 21, 22: 2}
+   t=3000 pieces=74 live=8000 loops={'odd': 33, 22: 4}
+   t=4000 pieces=102 live=10291 loops={'odd': 44, 22: 7}
+   t=5000 pieces=142 live=12423 loops={'odd': 62, 22: 7}
+L=23 s=21
+   t=1000 pieces=14 live=816 loops={'odd': 2, 23: 2}
+   t=2000 pieces=34 live=2279 loops={'odd': 6, 23: 6}
+   t=3000 pieces=69 live=6000 loops={'odd': 14, 23: 15}
+   t=4000 pieces=117 live=12853 loops={'odd': 26, 23: 32}
+   t=5000 pieces=192 live=23101 loops={'odd': 60, 23: 55}
+L=5 s=3
+   t=1000 pieces=1 live=1478 loops={'odd': 2, 6: 2}
+   t=2000 pieces=2 live=2043 loops={'odd': 5, 6: 2}
+   t=3000 pieces=4 live=2160 loops={'odd': 5, 6: 1}

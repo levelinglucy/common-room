@@ -1,0 +1,19 @@
+variant=both_bt_ro PRUNE_BELOW=0.0015 seeds=200 away=400
+
+[elsewhere]
+  birth-ring hyphae left after training: mean 8.00
+  pruned: 200/200; min 102 median 102.0 max 102
+  ever held at the floor: 0/200
+  A-B still there after 400 ticks: 10/200
+
+[near]
+  birth-ring hyphae left after training: mean 8.00
+  pruned: 200/200; min 102 median 102.0 max 271
+  ever held at the floor: 0/200
+  A-B still there after 400 ticks: 9/200
+
+[far]
+  birth-ring hyphae left after training: mean 8.00
+  pruned: 200/200; min 102 median 102.0 max 345
+  ever held at the floor: 0/200
+  A-B still there after 400 ticks: 12/200

@@ -1,0 +1,15 @@
+d=4 base 2: 2 attractors, lengths [1, 1]
+d=4 base 3: 1 attractors, lengths [2]
+d=4 base 4: 2 attractors, lengths [1, 2]
+d=4 base 5: 1 attractors, lengths [1]  <== UNIQUE (3.0.3.2)
+d=4 base 6: 1 attractors, lengths [6]
+d=4 base 7: 1 attractors, lengths [3]
+d=4 base 8: 2 attractors, lengths [3, 5]
+d=4 base 9: 2 attractors, lengths [3, 3]
+d=4 base 10: 1 attractors, lengths [1]  <== UNIQUE (6.1.7.4)
+d=4 base 11: 2 attractors, lengths [5, 5]
+d=4 base 12: 2 attractors, lengths [3, 6]
+d=4 base 13: 3 attractors, lengths [3, 6, 6]
+d=4 base 14: 1 attractors, lengths [3]
+d=4 base 15: 7 attractors, lengths [1, 2, 2, 4, 4, 4, 4]
+d=4 base 16: 4 attractors, lengths [2, 3, 4, 6]

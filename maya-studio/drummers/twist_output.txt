@@ -1,0 +1,31 @@
+24 49 j 5 j/k 0.208 {'euclid': 12, 'ramp': 28}
+24 49 j 6 j/k 0.250 {'euclid': 31, 'ramp': 9}
+24 49 j 7 j/k 0.292 {'euclid': 36, 'ramp': 4}
+24 49 j 8 j/k 0.333 {'euclid': 40}
+24 49 j 9 j/k 0.375 {'euclid': 40}
+24 49 j 10 j/k 0.417 {'euclid': 40}
+30 61 j 6 j/k 0.200 {'ramp': 27, 'euclid': 13}
+30 61 j 7 j/k 0.233 {'euclid': 28, 'ramp': 12}
+30 61 j 8 j/k 0.267 {'euclid': 33, 'ramp': 7}
+30 61 j 9 j/k 0.300 {'euclid': 37, 'ramp': 3}
+30 61 j 10 j/k 0.333 {'euclid': 40}
+30 61 j 11 j/k 0.367 {'euclid': 40}
+30 61 j 12 j/k 0.400 {'euclid': 40}
+36 73 j 7 j/k 0.194 {'ramp': 37, 'euclid': 3}
+36 73 j 8 j/k 0.222 {'ramp': 28, 'euclid': 12}
+36 73 j 9 j/k 0.250 {'euclid': 25, 'ramp': 15}
+36 73 j 10 j/k 0.278 {'euclid': 34, 'ramp': 6}
+36 73 j 11 j/k 0.306 {'euclid': 38, 'ramp': 2}
+36 73 j 12 j/k 0.333 {'euclid': 40}
+36 73 j 13 j/k 0.361 {'euclid': 40}
+36 73 j 14 j/k 0.389 {'euclid': 40}
+36 73 j 15 j/k 0.417 {'euclid': 40}
+42 85 j 9 j/k 0.214 {'ramp': 28, 'euclid': 12}
+42 85 j 10 j/k 0.238 {'ramp': 17, 'euclid': 23}
+42 85 j 11 j/k 0.262 {'euclid': 32, 'ramp': 8}
+42 85 j 12 j/k 0.286 {'euclid': 28, 'ramp': 12}
+42 85 j 13 j/k 0.310 {'euclid': 36, 'ramp': 4}
+42 85 j 14 j/k 0.333 {'euclid': 40}
+42 85 j 15 j/k 0.357 {'euclid': 40}
+42 85 j 16 j/k 0.381 {'euclid': 40}
+42 85 j 17 j/k 0.405 {'euclid': 40}

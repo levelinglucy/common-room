@@ -1,0 +1,16 @@
+L=17 arm=5 t=5000 pieces=295 live=61779 clean=295/295=1.00 loops={17: 295}
+L=18 arm=5 t=5000 pieces=618 live=42211 clean=55/606=0.09 loops={'odd': 528, 6: 2, 12: 21, 18: 55}
+L=19 arm=5 t=5000 pieces=64 live=51015 clean=249/249=1.00 loops={19: 249}
+L=20 arm=5 t=5000 pieces=207 live=50355 clean=207/207=1.00 loops={20: 207}
+L=21 arm=5 t=5000 pieces=517 live=33365 clean=49/328=0.15 loops={'odd': 275, 6: 2, 7: 2, 21: 49}
+L=22 arm=5 t=5000 pieces=52 live=41761 clean=169/169=1.00 loops={22: 169}
+L=23 arm=5 t=5000 pieces=135 live=41110 clean=135/135=1.00 loops={23: 135}
+L=8 arm=5 t=3000 pieces=638 live=51769 clean=655/655=1.00 loops={8: 655}
+L=9 arm=5 t=3000 pieces=191 live=38482 clean=56/943=0.06 loops={'odd': 886, 6: 1, 9: 56}
+L=10 arm=5 t=3000 pieces=76 live=37980 clean=345/345=1.00 loops={10: 345}
+L=11 arm=5 t=3000 pieces=295 live=34424 clean=295/295=1.00 loops={11: 295}
+L=12 arm=5 t=3000 pieces=270 live=28029 clean=34/538=0.06 loops={'odd': 500, 6: 3, 9: 1, 12: 34}
+L=13 arm=5 t=3000 pieces=52 live=26539 clean=169/169=1.00 loops={13: 169}
+L=14 arm=5 t=3000 pieces=149 live=24820 clean=158/168=0.94 loops={14: 158, 'odd': 10}
+L=15 arm=5 t=3000 pieces=281 live=22210 clean=29/295=0.10 loops={'odd': 237, 6: 2, 8: 27, 15: 29}
+L=16 arm=5 t=3000 pieces=40 live=20053 clean=105/105=1.00 loops={16: 105}

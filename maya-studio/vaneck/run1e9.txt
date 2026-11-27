@@ -1,0 +1,11 @@
+N=1000 zeros=197 Z*lnN/N=1.36083 ones=42 ones/zeros=0.2132 max=705 max/N=0.7050 mex=53 distinct_frac=0.19800
+N=10000 zeros=1702 Z*lnN/N=1.56760 ones=345 ones/zeros=0.2027 max=9344 max/N=0.9344 mex=251 distinct_frac=0.17030
+N=100000 zeros=15098 Z*lnN/N=1.73822 ones=2762 ones/zeros=0.1829 max=96595 max/N=0.9659 mex=1594 distinct_frac=0.15099
+N=1000000 zeros=136528 Z*lnN/N=1.88620 ones=24000 ones/zeros=0.1758 max=950219 max/N=0.9502 mex=8756 distinct_frac=0.13653
+N=10000000 zeros=1250522 Z*lnN/N=2.01560 ones=215715 ones/zeros=0.1725 max=9819448 max/N=0.9819 mex=53791 distinct_frac=0.12505
+N=100000000 zeros=11576060 Z*lnN/N=2.13239 ones=1961481 ones/zeros=0.1694 max=98666316 max/N=0.9867 mex=295927 distinct_frac=0.11576
+N=1000000000 zeros=107994996 Z*lnN/N=2.23801 ones=18055314 ones/zeros=0.1672 max=990503683 max/N=0.9905 mex=3288774 distinct_frac=0.10799
+
+real	1m34.322s
+user	1m22.028s
+sys	0m11.609s

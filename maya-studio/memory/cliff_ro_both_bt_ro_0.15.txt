@@ -1,0 +1,22 @@
+variant=both_bt_ro PRUNE_BELOW=0.15 seeds=200 away=400
+
+[elsewhere]
+  birth-ring hyphae left after training: mean 2.12
+  pruned: 200/200; min 46 median 51.0 max 239
+  ever held at the floor: 41/200, first hold median tick 46
+  at first hold: io_channel had degree 1 in 20, memory_store had degree 1 in 15
+  A-B still there after 400 ticks: 3/200
+
+[near]
+  birth-ring hyphae left after training: mean 2.12
+  pruned: 192/200; min 46 median 84.5 max 390
+  ever held at the floor: 31/200, first hold median tick 67
+  at first hold: io_channel had degree 1 in 0, memory_store had degree 1 in 28
+  A-B still there after 400 ticks: 15/200
+
+[far]
+  birth-ring hyphae left after training: mean 2.12
+  pruned: 193/200; min 46 median 88 max 377
+  ever held at the floor: 25/200, first hold median tick 81
+  at first hold: io_channel had degree 1 in 0, memory_store had degree 1 in 24
+  A-B still there after 400 ticks: 14/200

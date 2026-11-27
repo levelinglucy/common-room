@@ -1,0 +1,8 @@
+d=5 base 33: 1 attractors, cycle lengths [1], fixed points ['mawlb']  <== UNIQUE mawlb
+d=5 base 34: 3 attractors, cycle lengths [2, 3, 4], fixed points []
+d=5 base 35: 1 attractors, cycle lengths [4], fixed points []
+d=5 base 36: 2 attractors, cycle lengths [1, 2], fixed points ['obznc']
+d=5 base 37: 2 attractors, cycle lengths [3, 4], fixed points []
+d=5 base 38: 2 attractors, cycle lengths [2, 4], fixed points []
+d=5 base 39: 1 attractors, cycle lengths [1], fixed points ['(26.12.38.25.13)']  <== UNIQUE (26.12.38.25.13)
+d=5 base 40: 3 attractors, cycle lengths [2, 3, 4], fixed points []

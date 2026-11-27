@@ -1,0 +1,8 @@
+./bs_k 8000 2 1 200 11 0.4018 kruns/hit_K2_m1
+./bs_k 8000 3 1 200 11 0.2860 kruns/hit_K3_m1
+./bs_k 8000 4 1 200 11 0.2224 kruns/hit_K4_m1
+./bs_k 8000 5 1 200 11 0.1819 kruns/hit_K5_m1
+./bs_k 8000 3 2 200 11 0.3662 kruns/hit_K3_m2
+./bs_k 8000 4 2 200 11 0.2655 kruns/hit_K4_m2
+./bs_k 8000 5 2 200 11 0.2090 kruns/hit_K5_m2
+./bs_k 8000 2 2 200 11 0.6670 kruns/hit_K2_m2

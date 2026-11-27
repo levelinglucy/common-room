@@ -1,0 +1,42 @@
+L= 8 mod3=2 shift=0 contact t=436 corner_state_at_contact=7 7s_in_founder_ring@+40=  6/28 hole_at(2,L)=0 5/6_nearby@+300=0
+L= 8 mod3=2 shift=1 contact t=436 corner_state_at_contact=0 7s_in_founder_ring@+40= 21/28 hole_at(2,L)=2 5/6_nearby@+300=11
+L= 8 mod3=2 shift=2 contact t=436 corner_state_at_contact=1 7s_in_founder_ring@+40=  1/28 hole_at(2,L)=0 5/6_nearby@+300=5
+L= 9 mod3=0 shift=0 contact t=498 corner_state_at_contact=0 7s_in_founder_ring@+40= 24/32 hole_at(2,L)=2 5/6_nearby@+300=10
+L= 9 mod3=0 shift=1 contact t=498 corner_state_at_contact=1 7s_in_founder_ring@+40=  1/32 hole_at(2,L)=2 5/6_nearby@+300=12
+L= 9 mod3=0 shift=2 contact t=498 corner_state_at_contact=1 7s_in_founder_ring@+40=  1/32 hole_at(2,L)=5 5/6_nearby@+300=8
+L=10 mod3=1 shift=0 contact t=560 corner_state_at_contact=1 7s_in_founder_ring@+40=  8/36 hole_at(2,L)=0 5/6_nearby@+300=0
+L=10 mod3=1 shift=1 contact t=560 corner_state_at_contact=7 7s_in_founder_ring@+40=  9/36 hole_at(2,L)=1 5/6_nearby@+300=0
+L=10 mod3=1 shift=2 contact t=560 corner_state_at_contact=0 7s_in_founder_ring@+40=  2/36 hole_at(2,L)=2 5/6_nearby@+300=9
+L=11 mod3=2 shift=0 contact t=622 corner_state_at_contact=7 7s_in_founder_ring@+40=  9/40 hole_at(2,L)=0 5/6_nearby@+300=0
+L=11 mod3=2 shift=1 contact t=622 corner_state_at_contact=0 7s_in_founder_ring@+40= 22/40 hole_at(2,L)=2 5/6_nearby@+300=19
+L=11 mod3=2 shift=2 contact t=622 corner_state_at_contact=1 7s_in_founder_ring@+40=  1/40 hole_at(2,L)=0 5/6_nearby@+300=8
+L=12 mod3=0 shift=0 contact t=684 corner_state_at_contact=0 7s_in_founder_ring@+40= 23/44 hole_at(2,L)=2 5/6_nearby@+300=15
+L=12 mod3=0 shift=1 contact t=684 corner_state_at_contact=1 7s_in_founder_ring@+40=  1/44 hole_at(2,L)=2 5/6_nearby@+300=17
+L=12 mod3=0 shift=2 contact t=684 corner_state_at_contact=7 7s_in_founder_ring@+40=  1/44 hole_at(2,L)=2 5/6_nearby@+300=6
+L=13 mod3=1 shift=0 contact t=746 corner_state_at_contact=1 7s_in_founder_ring@+40= 11/48 hole_at(2,L)=0 5/6_nearby@+300=0
+L=13 mod3=1 shift=1 contact t=746 corner_state_at_contact=7 7s_in_founder_ring@+40= 12/48 hole_at(2,L)=1 5/6_nearby@+300=0
+L=13 mod3=1 shift=2 contact t=746 corner_state_at_contact=0 7s_in_founder_ring@+40=  6/48 hole_at(2,L)=2 5/6_nearby@+300=20
+L=14 mod3=2 shift=0 contact t=808 corner_state_at_contact=7 7s_in_founder_ring@+40= 12/52 hole_at(2,L)=0 5/6_nearby@+300=0
+L=14 mod3=2 shift=1 contact t=808 corner_state_at_contact=0 7s_in_founder_ring@+40= 35/52 hole_at(2,L)=2 5/6_nearby@+300=24
+L=14 mod3=2 shift=2 contact t=808 corner_state_at_contact=1 7s_in_founder_ring@+40=  2/52 hole_at(2,L)=0 5/6_nearby@+300=10
+L=15 mod3=0 shift=0 contact t=870 corner_state_at_contact=0 7s_in_founder_ring@+40= 37/56 hole_at(2,L)=2 5/6_nearby@+300=21
+L=15 mod3=0 shift=1 contact t=870 corner_state_at_contact=1 7s_in_founder_ring@+40= 14/56 hole_at(2,L)=0 5/6_nearby@+300=1
+L=15 mod3=0 shift=2 contact t=870 corner_state_at_contact=7 7s_in_founder_ring@+40=  1/56 hole_at(2,L)=0 5/6_nearby@+300=12
+L=16 mod3=1 shift=0 contact t=932 corner_state_at_contact=1 7s_in_founder_ring@+40= 14/60 hole_at(2,L)=0 5/6_nearby@+300=1
+L=16 mod3=1 shift=1 contact t=932 corner_state_at_contact=7 7s_in_founder_ring@+40= 15/60 hole_at(2,L)=1 5/6_nearby@+300=0
+L=16 mod3=1 shift=2 contact t=932 corner_state_at_contact=0 7s_in_founder_ring@+40= 10/60 hole_at(2,L)=2 5/6_nearby@+300=21
+L=17 mod3=2 shift=0 contact t=994 corner_state_at_contact=7 7s_in_founder_ring@+40= 15/64 hole_at(2,L)=0 5/6_nearby@+300=0
+L=17 mod3=2 shift=1 contact t=994 corner_state_at_contact=0 7s_in_founder_ring@+40= 40/64 hole_at(2,L)=2 5/6_nearby@+300=28
+L=17 mod3=2 shift=2 contact t=994 corner_state_at_contact=1 7s_in_founder_ring@+40=  0/64 hole_at(2,L)=0 5/6_nearby@+300=12
+L=18 mod3=0 shift=0 contact t=1056 corner_state_at_contact=0 7s_in_founder_ring@+40= 43/68 hole_at(2,L)=2 5/6_nearby@+300=26
+L=18 mod3=0 shift=1 contact t=1056 corner_state_at_contact=1 7s_in_founder_ring@+40= 17/68 hole_at(2,L)=1 5/6_nearby@+300=0
+L=18 mod3=0 shift=2 contact t=1056 corner_state_at_contact=7 7s_in_founder_ring@+40=  2/68 hole_at(2,L)=0 5/6_nearby@+300=13
+L=19 mod3=1 shift=0 contact t=1118 corner_state_at_contact=1 7s_in_founder_ring@+40= 17/72 hole_at(2,L)=0 5/6_nearby@+300=0
+L=19 mod3=1 shift=1 contact t=1118 corner_state_at_contact=7 7s_in_founder_ring@+40= 18/72 hole_at(2,L)=1 5/6_nearby@+300=0
+L=19 mod3=1 shift=2 contact t=1118 corner_state_at_contact=0 7s_in_founder_ring@+40= 12/72 hole_at(2,L)=2 5/6_nearby@+300=29
+L=20 mod3=2 shift=0 contact t=1180 corner_state_at_contact=7 7s_in_founder_ring@+40= 18/76 hole_at(2,L)=0 5/6_nearby@+300=0
+L=20 mod3=2 shift=1 contact t=1180 corner_state_at_contact=0 7s_in_founder_ring@+40= 45/76 hole_at(2,L)=2 5/6_nearby@+300=32
+L=20 mod3=2 shift=2 contact t=1180 corner_state_at_contact=1 7s_in_founder_ring@+40=  1/76 hole_at(2,L)=0 5/6_nearby@+300=14
+L=21 mod3=0 shift=0 contact t=1242 corner_state_at_contact=0 7s_in_founder_ring@+40= 46/80 hole_at(2,L)=2 5/6_nearby@+300=33
+L=21 mod3=0 shift=1 contact t=1242 corner_state_at_contact=1 7s_in_founder_ring@+40= 20/80 hole_at(2,L)=1 5/6_nearby@+300=0
+L=21 mod3=0 shift=2 contact t=1242 corner_state_at_contact=7 7s_in_founder_ring@+40=  1/80 hole_at(2,L)=0 5/6_nearby@+300=17

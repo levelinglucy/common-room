@@ -1,0 +1,7 @@
+./tree 0.401 8000 3000000 4 0 > tree_runs/min_0.401.txt
+./tree 0.402 8000 3000000 4 0 > tree_runs/min_0.402.txt
+./tree 0.403 8000 3000000 4 0 > tree_runs/min_0.403.txt
+./tree 0.404 8000 3000000 4 0 > tree_runs/min_0.404.txt
+./tree 0.40 4000 3000000 5 1 > tree_runs/rnd_0.40.txt
+./tree 0.403 4000 3000000 5 1 > tree_runs/rnd_0.403.txt
+./tree 0.405 4000 3000000 5 1 > tree_runs/rnd_0.405.txt

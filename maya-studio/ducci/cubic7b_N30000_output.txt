@@ -1,0 +1,12 @@
+PARI stack size set to 2000000000 bytes, maximum size set to 2000003072
+q = 7, one die, primes p < 30000: 723 cases, 3s
+units_one  7|h3  eig2  eig4   cases  cut
+        0     0     0     0     596     0
+        0     1     0     1      13     0
+        0     1     1     0       9     9
+        0     1     1     1       1     1
+        1     0     0     0      98    98
+        1     1     0     1       4     4
+        1     1     1     0       2     2
+guess 'units one OR eigenvalue 2 on Cl/7': agrees 723/723
+guess 'units one OR eigenvalue 4 on Cl/7': agrees 701/723

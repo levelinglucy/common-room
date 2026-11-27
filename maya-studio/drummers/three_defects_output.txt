@@ -1,0 +1,28 @@
+k= 6: three defects stuck up to j=1, spacing (2, 1, 3); predicts jmin=2, sims floor((k+1)/3)=2
+k= 7: three defects stuck up to j=1, spacing (2, 1, 4); predicts jmin=2, sims floor((k+1)/3)=2
+k= 8: three defects stuck up to j=2, spacing (3, 2, 3); predicts jmin=3, sims floor((k+1)/3)=3
+k= 9: three defects stuck up to j=2, spacing (3, 2, 4); predicts jmin=3, sims floor((k+1)/3)=3
+k=10: three defects stuck up to j=2, spacing (3, 2, 5); predicts jmin=3, sims floor((k+1)/3)=3
+k=11: three defects stuck up to j=3, spacing (4, 3, 4); predicts jmin=4, sims floor((k+1)/3)=4
+k=12: three defects stuck up to j=3, spacing (4, 3, 5); predicts jmin=4, sims floor((k+1)/3)=4
+k=13: three defects stuck up to j=3, spacing (4, 3, 6); predicts jmin=4, sims floor((k+1)/3)=4
+k=14: three defects stuck up to j=4, spacing (5, 4, 5); predicts jmin=5, sims floor((k+1)/3)=5
+k=15: three defects stuck up to j=4, spacing (5, 4, 6); predicts jmin=5, sims floor((k+1)/3)=5
+k=16: three defects stuck up to j=4, spacing (5, 4, 7); predicts jmin=5, sims floor((k+1)/3)=5
+k=17: three defects stuck up to j=5, spacing (6, 5, 6); predicts jmin=6, sims floor((k+1)/3)=6
+k=18: three defects stuck up to j=5, spacing (6, 5, 7); predicts jmin=6, sims floor((k+1)/3)=6
+k=19: three defects stuck up to j=5, spacing (6, 5, 8); predicts jmin=6, sims floor((k+1)/3)=6
+k=20: three defects stuck up to j=6, spacing (7, 6, 7); predicts jmin=7, sims floor((k+1)/3)=7
+k=21: three defects stuck up to j=6, spacing (7, 6, 8); predicts jmin=7, sims floor((k+1)/3)=7
+k=22: three defects stuck up to j=6, spacing (7, 6, 9); predicts jmin=7, sims floor((k+1)/3)=7
+k=23: three defects stuck up to j=7, spacing (8, 7, 8); predicts jmin=8, sims floor((k+1)/3)=8
+k=24: three defects stuck up to j=7, spacing (8, 7, 9); predicts jmin=8, sims floor((k+1)/3)=8
+k=25: three defects stuck up to j=7, spacing (8, 7, 10); predicts jmin=8, sims floor((k+1)/3)=8
+k=26: three defects stuck up to j=8, spacing (9, 8, 9); predicts jmin=9, sims floor((k+1)/3)=9
+k=27: three defects stuck up to j=8, spacing (9, 8, 10); predicts jmin=9, sims floor((k+1)/3)=9
+k=28: three defects stuck up to j=8, spacing (9, 8, 11); predicts jmin=9, sims floor((k+1)/3)=9
+k=29: three defects stuck up to j=9, spacing (10, 9, 10); predicts jmin=10, sims floor((k+1)/3)=10
+k=30: three defects stuck up to j=9, spacing (10, 9, 11); predicts jmin=10, sims floor((k+1)/3)=10
+k=36: three defects stuck up to j=11, spacing (12, 11, 13); predicts jmin=12, sims floor((k+1)/3)=12
+k=42: three defects stuck up to j=13, spacing (14, 13, 15); predicts jmin=14, sims floor((k+1)/3)=14
+k=48: three defects stuck up to j=15, spacing (16, 15, 17); predicts jmin=16, sims floor((k+1)/3)=16

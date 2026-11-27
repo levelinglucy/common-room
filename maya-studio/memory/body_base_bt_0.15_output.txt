@@ -1,0 +1,15 @@
+variant=base_bt prune_below=0.15 seeds=40 burn=300 run=3000
+mean hyphae alive: 7.80
+whole body connected: 41.0% of ticks
+first organ cut off: 40/40 runs, median tick 67.5
+organ                cut off %   route from io_channel reaches it %
+  identity_store        17.6     73.1
+  memory_store           0.0     (habit)
+  logger                17.2     73.5
+  scheduler             17.1     74.1
+  io_channel             0.0     (habit)
+  recovery_manager      17.2     73.1
+  dream_engine           0.0     (habit)
+  symbolic_renderer      0.0     (habit)
+idle organs reached on one try, average: 73.5%
+failed probes: 5096/19200: no path at all 5096, path existed but route missed it 0 (dead end 0, ran out of 12 steps 0)

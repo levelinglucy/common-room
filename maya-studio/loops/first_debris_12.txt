@@ -1,0 +1,1 @@
+L=12 first lasting odd hole formed by t=196, size 65, centre (-1,11) from grid centre

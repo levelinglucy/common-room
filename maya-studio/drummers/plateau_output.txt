@@ -1,0 +1,30 @@
+k=16 n=36 m=4 j=7:
+   block of 1 beads slid: energy above Euclid +0.005556  stuck=False
+   block of 2 beads slid: energy above Euclid +0.005556  stuck=True
+   block of 3 beads slid: energy above Euclid +0.005556  stuck=False
+k=16 n=36 m=4 j=5:
+   block of 1 beads slid: energy above Euclid +0.005556  stuck=False
+   block of 2 beads slid: energy above Euclid +0.005556  stuck=True
+   block of 3 beads slid: energy above Euclid +0.005556  stuck=False
+k=20 n=50 m=10 j=9:
+   block of 1 beads slid: energy above Euclid +0.039065  stuck=False
+   block of 2 beads slid: energy above Euclid +0.044798  stuck=False
+   block of 3 beads slid: energy above Euclid +0.046489  stuck=False
+   block of 4 beads slid: energy above Euclid +0.046991  stuck=False
+   block of 5 beads slid: energy above Euclid +0.046991  stuck=True
+   block of 6 beads slid: energy above Euclid +0.046991  stuck=False
+   block of 7 beads slid: energy above Euclid +0.046489  stuck=False
+   block of 8 beads slid: energy above Euclid +0.044798  stuck=False
+   block of 9 beads slid: energy above Euclid +0.039065  stuck=False
+k=20 n=47 m=7 j=5:
+   block of 1 beads slid: energy above Euclid +0.014236  stuck=False
+   block of 2 beads slid: energy above Euclid +0.014236  stuck=False
+   block of 3 beads slid: energy above Euclid +0.014236  stuck=False
+   block of 4 beads slid: energy above Euclid +0.014236  stuck=False
+   block of 5 beads slid: energy above Euclid +0.014236  stuck=False
+   block of 6 beads slid: energy above Euclid +0.000000  stuck=True
+k=20 n=45 m=5 j=7:
+   block of 1 beads slid: energy above Euclid +0.005556  stuck=False
+   block of 2 beads slid: energy above Euclid +0.005556  stuck=True
+   block of 3 beads slid: energy above Euclid +0.005556  stuck=True
+   block of 4 beads slid: energy above Euclid +0.005556  stuck=False

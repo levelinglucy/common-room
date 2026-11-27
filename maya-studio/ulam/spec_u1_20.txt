@@ -1,0 +1,4 @@
+u1_20.txt: 104641 terms, max 599980, FFT length 4194304
+  alpha 0.1039976  |mean e^(i a u)| 0.8287  mean cos -0.8113
+  alpha 0.2079937  |mean e^(i a u)| 0.4343  mean cos +0.4341
+  refined: alpha 0.1039969131  mean cos -0.83434  period 2pi/alpha 60.41703663

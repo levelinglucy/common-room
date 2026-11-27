@@ -1,0 +1,136 @@
+5 0 split None pieces 1 same-size loops 1 all {'5': 1}
+5 1 split None pieces 1 same-size loops 3 all {'5': 3}
+5 2 split 75 pieces 2 same-size loops 6 all {'5': 6, 'odd': 8}
+5 3 split 375 pieces 2 same-size loops 5 all {'5': 5, 'odd': 5, '6': 2}
+6 0 split None pieces 1 same-size loops 1 all {'5': 2, '6': 1}
+6 1 split 75 pieces 3 same-size loops 1 all {'5': 2, 'odd': 2, '6': 1}
+6 2 split 375 pieces 1 same-size loops 1 all {'5': 3, 'odd': 5, '6': 1}
+6 3 split None pieces 1 same-size loops 1 all {'5': 8, 'odd': 1, '6': 1}
+6 4 split 80 pieces 3 same-size loops 0 all {'5': 2, 'odd': 5}
+7 0 split None pieces 1 same-size loops 1 all {'5': 2, '7': 1}
+7 1 split 110 pieces 4 same-size loops 0 all {'odd': 3}
+7 2 split 85 pieces 2 same-size loops 1 all {'5': 6, '7': 1, 'odd': 3}
+7 3 split 115 pieces 3 same-size loops 0 all {'5': 5, 'odd': 5, '8': 1}
+7 4 split 115 pieces 2 same-size loops 0 all {'5': 5, 'odd': 5}
+7 5 split 100 pieces 5 same-size loops 0 all {'5': 6, 'odd': 7}
+7 6 split 105 pieces 9 same-size loops 0 all {'5': 8, 'odd': 6}
+8 0 split None pieces 1 same-size loops 1 all {'5': 2, '8': 1}
+8 1 split None pieces 1 same-size loops 1 all {'5': 1, 'odd': 1, '8': 1}
+8 2 split 95 pieces 2 same-size loops 1 all {'5': 5, 'odd': 4, '8': 1}
+8 3 split None pieces 1 same-size loops 1 all {'5': 11, '8': 1}
+8 4 split None pieces 1 same-size loops 1 all {'5': 11, '6': 1, '8': 1}
+8 5 split None pieces 1 same-size loops 1 all {'5': 13, '7': 1, '8': 1}
+8 6 split 130 pieces 135 same-size loops 135 all {'5': 449, '8': 135}
+8 7 split None pieces 1 same-size loops 1 all {'5': 19, '8': 1, '9': 1}
+9 0 split None pieces 1 same-size loops 1 all {'5': 2, '9': 1}
+9 1 split None pieces 1 same-size loops 1 all {'5': 1, 'odd': 1, '9': 1}
+9 2 split 110 pieces 2 same-size loops 1 all {'5': 7, '9': 1, 'odd': 3}
+9 3 split None pieces 1 same-size loops 1 all {'5': 8, '9': 1}
+9 4 split None pieces 1 same-size loops 1 all {'5': 10, '6': 1, '9': 1}
+9 5 split None pieces 1 same-size loops 1 all {'5': 13, '7': 1, '9': 1}
+9 6 split None pieces 1 same-size loops 1 all {'5': 16, '8': 1, '9': 1}
+9 7 split 150 pieces 35 same-size loops 15 all {'5': 238, 'odd': 56, '6': 6, '8': 1, '9': 15}
+9 8 split None pieces 1 same-size loops 1 all {'5': 22, '9': 1, '10': 1}
+10 0 split None pieces 1 same-size loops 1 all {'5': 2, '10': 1}
+10 1 split 155 pieces 4 same-size loops 1 all {'5': 2, 'odd': 2, '10': 1}
+10 2 split 120 pieces 2 same-size loops 1 all {'5': 6, 'odd': 4, '10': 1}
+10 3 split None pieces 1 same-size loops 1 all {'5': 9, '10': 1}
+10 4 split None pieces 1 same-size loops 1 all {'5': 12, '6': 1, '10': 1}
+10 5 split None pieces 1 same-size loops 1 all {'5': 14, '7': 1, '10': 1}
+10 6 split None pieces 1 same-size loops 1 all {'5': 16, '8': 1, '10': 1}
+10 7 split None pieces 1 same-size loops 1 all {'5': 18, '9': 1, '10': 1}
+10 8 split 170 pieces 16 same-size loops 2 all {'5': 60, 'odd': 33, '6': 1, '7': 1, '10': 2, '12': 1}
+10 9 split None pieces 1 same-size loops 1 all {'5': 24, '10': 1, '11': 1}
+10 10 split None pieces 1 same-size loops 1 all {'5': 28, '10': 1, '12': 1}
+11 0 split None pieces 1 same-size loops 1 all {'5': 2, '11': 1}
+11 1 split 170 pieces 5 same-size loops 0 all {'5': 1, 'odd': 3}
+11 2 split 130 pieces 2 same-size loops 1 all {'5': 8, '11': 1, 'odd': 3}
+11 3 split None pieces 1 same-size loops 1 all {'5': 11, '11': 1}
+11 4 split None pieces 1 same-size loops 1 all {'5': 12, '6': 1, '11': 1}
+11 5 split None pieces 1 same-size loops 1 all {'5': 14, '7': 1, '11': 1}
+11 6 split None pieces 1 same-size loops 1 all {'5': 15, '8': 1, '11': 1}
+11 7 split None pieces 1 same-size loops 1 all {'5': 17, '9': 1, '11': 1}
+11 8 split None pieces 1 same-size loops 1 all {'5': 20, '10': 1, '11': 1}
+11 9 split 190 pieces 29 same-size loops 24 all {'5': 211, 'odd': 13, '7': 1, '11': 24}
+11 10 split None pieces 1 same-size loops 1 all {'5': 27, '11': 1, '12': 1}
+11 11 split None pieces 1 same-size loops 1 all {'5': 30, '11': 1, '13': 1}
+12 0 split None pieces 1 same-size loops 1 all {'5': 3, '12': 1}
+12 1 split 190 pieces 2 same-size loops 1 all {'5': 2, 'odd': 1, '12': 1}
+12 2 split 145 pieces 2 same-size loops 1 all {'5': 7, 'odd': 4, '12': 1}
+12 3 split None pieces 1 same-size loops 1 all {'5': 7, '12': 1}
+12 4 split None pieces 1 same-size loops 1 all {'5': 7, '6': 1, '12': 1}
+12 5 split None pieces 1 same-size loops 1 all {'5': 9, '7': 1, '12': 1}
+12 6 split None pieces 1 same-size loops 1 all {'5': 12, '8': 1, '12': 1}
+12 7 split None pieces 1 same-size loops 1 all {'5': 15, '9': 1, '12': 1}
+12 8 split None pieces 1 same-size loops 1 all {'5': 19, '10': 1, '12': 1}
+12 9 split None pieces 1 same-size loops 1 all {'5': 22, '11': 1, '12': 1}
+12 10 split 210 pieces 29 same-size loops 4 all {'5': 81, 'odd': 22, '9': 1, '12': 4}
+12 11 split None pieces 1 same-size loops 1 all {'5': 27, '12': 1, '13': 1}
+12 12 split None pieces 1 same-size loops 1 all {'5': 31, '12': 1, '14': 1}
+13 0 split None pieces 1 same-size loops 1 all {'5': 3, '13': 1}
+13 1 split 205 pieces 2 same-size loops 1 all {'5': 2, 'odd': 1, '13': 1}
+13 2 split 155 pieces 2 same-size loops 1 all {'5': 9, '13': 1, 'odd': 3}
+13 3 split None pieces 1 same-size loops 1 all {'5': 10, '13': 1}
+13 4 split None pieces 1 same-size loops 1 all {'5': 10, '6': 1, '13': 1}
+13 5 split None pieces 1 same-size loops 1 all {'5': 11, '7': 1, '13': 1}
+13 6 split None pieces 1 same-size loops 1 all {'5': 12, '8': 1, '13': 1}
+13 7 split None pieces 1 same-size loops 1 all {'5': 15, '9': 1, '13': 1}
+13 8 split 210 pieces 3 same-size loops 0 all {'5': 11, 'odd': 2, '6': 1, '10': 1}
+13 9 split None pieces 1 same-size loops 1 all {'5': 21, '11': 1, '13': 1}
+13 10 split None pieces 1 same-size loops 1 all {'5': 25, '12': 1, '13': 1}
+13 11 split 230 pieces 23 same-size loops 13 all {'5': 199, 'odd': 21, '13': 13}
+13 12 split None pieces 1 same-size loops 1 all {'5': 31, '13': 1, '14': 1}
+13 13 split None pieces 1 same-size loops 1 all {'5': 34, '13': 1, '15': 1}
+13 14 split 255 pieces 9 same-size loops 0 all {'5': 157, 'odd': 6, '6': 2}
+14 0 split None pieces 1 same-size loops 1 all {'5': 2, '14': 1}
+14 1 split 225 pieces 5 same-size loops 1 all {'5': 3, 'odd': 2, '14': 1}
+14 2 split 170 pieces 2 same-size loops 1 all {'5': 8, 'odd': 4, '14': 1}
+14 3 split None pieces 1 same-size loops 1 all {'5': 6, '14': 1}
+14 4 split None pieces 1 same-size loops 1 all {'5': 6, '6': 1, '14': 1}
+14 5 split None pieces 1 same-size loops 1 all {'5': 10, '7': 1, '14': 1}
+14 6 split None pieces 1 same-size loops 1 all {'5': 13, '8': 1, '14': 1}
+14 7 split None pieces 1 same-size loops 1 all {'5': 16, '9': 1, '14': 1}
+14 8 split None pieces 1 same-size loops 1 all {'5': 20, '10': 1, '14': 1}
+14 9 split 230 pieces 4 same-size loops 0 all {'5': 15, 'odd': 2, '7': 1, '11': 1}
+14 10 split None pieces 1 same-size loops 1 all {'5': 24, '12': 1, '14': 1}
+14 11 split None pieces 1 same-size loops 1 all {'5': 26, '13': 1, '14': 1}
+14 12 split 250 pieces 27 same-size loops 10 all {'5': 166, 'odd': 9, '14': 10}
+14 13 split None pieces 1 same-size loops 1 all {'5': 34, '14': 1, '15': 1}
+14 14 split None pieces 1 same-size loops 1 all {'5': 37, '14': 1, '16': 1}
+14 15 split 275 pieces 13 same-size loops 0 all {'5': 11, 'odd': 8, '6': 1}
+15 0 split None pieces 1 same-size loops 1 all {'5': 2, '15': 1}
+15 1 split 240 pieces 6 same-size loops 0 all {'5': 2, 'odd': 3}
+15 2 split 180 pieces 2 same-size loops 1 all {'5': 10, '15': 1, 'odd': 3}
+15 3 split None pieces 1 same-size loops 1 all {'5': 6, '15': 1}
+15 4 split None pieces 1 same-size loops 1 all {'5': 7, '6': 1, '15': 1}
+15 5 split None pieces 1 same-size loops 1 all {'5': 10, '7': 1, '15': 1}
+15 6 split None pieces 1 same-size loops 1 all {'5': 13, '8': 1, '15': 1}
+15 7 split None pieces 1 same-size loops 1 all {'5': 17, '9': 1, '15': 1}
+15 8 split None pieces 1 same-size loops 1 all {'5': 20, '10': 1, '15': 1}
+15 9 split None pieces 1 same-size loops 1 all {'5': 22, '11': 1, '15': 1}
+15 10 split 250 pieces 5 same-size loops 0 all {'5': 19, 'odd': 2, '8': 1, '12': 1}
+15 11 split None pieces 1 same-size loops 1 all {'5': 26, '13': 1, '15': 1}
+15 12 split None pieces 1 same-size loops 1 all {'5': 29, '14': 1, '15': 1}
+15 13 split 270 pieces 34 same-size loops 6 all {'5': 134, 'odd': 19, '6': 1, '15': 6}
+15 14 split None pieces 1 same-size loops 1 all {'5': 36, '15': 1, '16': 1}
+15 15 split None pieces 1 same-size loops 1 all {'5': 40, '15': 1, '17': 1}
+15 16 split 300 pieces 18 same-size loops 0 all {'5': 16, 'odd': 4, '6': 1}
+16 0 split None pieces 1 same-size loops 1 all {'5': 2, '16': 1}
+16 1 split 255 pieces 3 same-size loops 1 all {'5': 3, 'odd': 1, '16': 1}
+16 2 split 195 pieces 2 same-size loops 1 all {'5': 9, 'odd': 4, '16': 1}
+16 3 split None pieces 1 same-size loops 1 all {'5': 6, '16': 1}
+16 4 split None pieces 1 same-size loops 1 all {'5': 6, '6': 1, '16': 1}
+16 5 split None pieces 1 same-size loops 1 all {'5': 7, '7': 1, '16': 1}
+16 6 split None pieces 1 same-size loops 1 all {'5': 8, '8': 1, '16': 1}
+16 7 split None pieces 1 same-size loops 1 all {'5': 12, '9': 1, '16': 1}
+16 8 split None pieces 1 same-size loops 1 all {'5': 15, '10': 1, '16': 1}
+16 9 split None pieces 1 same-size loops 1 all {'5': 18, '11': 1, '16': 1}
+16 10 split None pieces 1 same-size loops 1 all {'5': 22, '12': 1, '16': 1}
+16 11 split 270 pieces 5 same-size loops 0 all {'5': 21, 'odd': 3, '9': 1, '13': 1}
+16 12 split None pieces 1 same-size loops 1 all {'5': 28, '14': 1, '16': 1}
+16 13 split None pieces 1 same-size loops 1 all {'5': 30, '15': 1, '16': 1}
+16 14 split 290 pieces 23 same-size loops 5 all {'5': 168, 'odd': 8, '16': 5}
+16 15 split None pieces 1 same-size loops 1 all {'5': 35, '16': 1, '17': 1}
+16 16 split None pieces 1 same-size loops 1 all {'5': 40, '16': 1, '18': 1}
+16 17 split 320 pieces 12 same-size loops 0 all {'5': 154, 'odd': 10, '6': 1}
+16 18 split None pieces 1 same-size loops 1 all {'5': 48, '16': 1, '20': 1}

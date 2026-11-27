@@ -1,0 +1,10 @@
+both_bt disconnected ticks 11678
+    3548  2 organs/1 hyphae
+    1788  3 organs/2 hyphae
+    1058  4 organs/3 hyphae
+     836  5 organs/4 hyphae
+     595  6 organs/5 hyphae
+     546  5 organs/5 hyphae
+     526  6 organs/6 hyphae
+     461  3 organs/3 hyphae
+island spells: 1620 median length 5.0 mean 7.2 max 56

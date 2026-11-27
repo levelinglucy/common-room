@@ -1,0 +1,6 @@
+d=7 base 17: 3 attractors, cycle lengths [2, 2, 4], fixed points []
+d=7 base 18: 1 attractors, cycle lengths [4], fixed points []
+d=7 base 19: 1 attractors, cycle lengths [14], fixed points []
+d=7 base 20: 2 attractors, cycle lengths [1, 13], fixed points ['fa4je95']
+d=7 base 21: 3 attractors, cycle lengths [2, 2, 4], fixed points []
+d=7 base 22: 1 attractors, cycle lengths [4], fixed points []

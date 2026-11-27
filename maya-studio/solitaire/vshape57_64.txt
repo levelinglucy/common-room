@@ -1,0 +1,9 @@
+n k r maxT down up ones max(down,up,ones) match second_best_nonones
+57 10 2 70 70 2 47 70 OK
+58 10 3 60 60 14 48 60 OK
+59 10 4 50 50 26 49 50 OK
+60 10 5 50 40 38 50 50 OK
+61 10 6 51 30 50 51 51 OK
+62 10 7 62 20 62 52 62 OK
+63 10 8 74 10 74 53 74 OK
+64 10 9 86 0 86 54 86 OK

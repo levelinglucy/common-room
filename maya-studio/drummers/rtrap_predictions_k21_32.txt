@@ -1,0 +1,156 @@
+k=21 n=43 m= 1: predicted jmin  7  (211 cand)  trap 122222223222223222222
+k=21 n=44 m= 2: predicted jmin 10  (9 cand)  trap 222222222223222222223
+k=21 n=45 m= 3: predicted jmin  7  (63 cand)  trap 222222223222223222223
+k=21 n=46 m= 4: predicted jmin  6  (6 cand)  trap 222222322223222322223
+k=21 n=47 m= 5: predicted jmin  8  (10 cand)  trap 222232222322232232223
+k=21 n=48 m= 6: predicted jmin  7  (3 cand)  trap 222322232223223223223
+k=21 n=49 m= 7: predicted jmin  9  (6 cand)  trap 222322322323223223223
+k=21 n=50 m= 8: predicted jmin  8  (6 cand)  trap 223223223232232322323
+k=21 n=51 m= 9: predicted jmin  7  (9 cand)  trap 223232232322323232323
+k=21 n=52 m=10: predicted jmin  7  (45 cand)  trap 223232232323233232323
+k=22 n=45 m= 1: predicted jmin  7  (232 cand)  trap 1222222232222232222222
+k=22 n=46 m= 2: predicted jmin 11  (10 cand)  trap 2222222222232222222223
+k=22 n=47 m= 3: predicted jmin  7  (69 cand)  trap 2222222232222223222223
+k=22 n=48 m= 4: predicted jmin 11  (1 cand)  trap 2222232222232222322223
+k=22 n=49 m= 5: predicted jmin  9  (1 cand)  trap 2222322223222322232223
+k=22 n=50 m= 6: predicted jmin 11  (2 cand)  trap 2223222322232232223223
+k=22 n=51 m= 7: predicted jmin  7  (21 cand)  trap 2223222322322323223223
+k=22 n=52 m= 8: predicted jmin 11  (3 cand)  trap 2232232232232322322323
+k=22 n=53 m= 9: predicted jmin  7  (6 cand)  trap 2232232322323232322323
+k=22 n=54 m=10: predicted jmin 11  (4 cand)  trap 2232323232232323232323
+k=22 n=55 m=11: predicted jmin 10  (10 cand)  trap 2232323232323323232323
+k=23 n=47 m= 1: predicted jmin  8  (254 cand)  trap 12222222322222232222222
+k=23 n=48 m= 2: predicted jmin 11  (10 cand)  trap 22222222222232222222223
+k=23 n=49 m= 3: predicted jmin  8  (76 cand)  trap 22222222322222232222223
+k=23 n=50 m= 4: predicted jmin  6  (6 cand)  trap 22222232222322223222223
+k=23 n=51 m= 5: predicted jmin  9  (1 cand)  trap 22223222232222322232223
+k=23 n=52 m= 6: predicted jmin  8  (15 cand)  trap 22223222322322232232223
+k=23 n=53 m= 7: predicted jmin 10  (2 cand)  trap 22232232223223223223223
+k=23 n=54 m= 8: predicted jmin  8  (28 cand)  trap 22232232232322323223223
+k=23 n=55 m= 9: predicted jmin  8  (6 cand)  trap 22322322323223232322323
+k=23 n=56 m=10: predicted jmin  7  (11 cand)  trap 22323223232322323232323
+k=23 n=57 m=11: predicted jmin  8  (55 cand)  trap 22323232232323233232323
+k=24 n=49 m= 1: predicted jmin  8  (277 cand)  trap 122222223222222322222222
+k=24 n=50 m= 2: predicted jmin 12  (11 cand)  trap 222222222222322222222223
+k=24 n=51 m= 3: predicted jmin  8  (84 cand)  trap 222222222322222232222223
+k=24 n=52 m= 4: predicted jmin 12  (3 cand)  trap 222222322222322223222223
+k=24 n=53 m= 5: predicted jmin  9  (10 cand)  trap 222223222232223222322223
+k=24 n=54 m= 6: predicted jmin 12  (5 cand)  trap 222232223222322322232223
+k=24 n=55 m= 7: predicted jmin  7  (4 cand)  trap 222322232232223223223223
+k=24 n=56 m= 8: predicted jmin 12  (7 cand)  trap 222322322322323223223223
+k=24 n=57 m= 9: predicted jmin  8  (9 cand)  trap 223223223232232322322323
+k=24 n=58 m=10: predicted jmin 12  (1 cand)  trap 223232232322323232232323
+k=24 n=59 m=11: predicted jmin 11  (4 cand)  trap 223232323223232323232323
+k=24 n=60 m=12: predicted jmin 12  (11 cand)  trap 223232323232332323232323
+k=25 n=51 m= 1: predicted jmin  8  (301 cand)  trap 1222222223222222232222222
+k=25 n=52 m= 2: predicted jmin 12  (11 cand)  trap 2222222222222322222222223
+k=25 n=53 m= 3: predicted jmin  8  (91 cand)  trap 2222222223222222232222223
+k=25 n=54 m= 4: predicted jmin  7  (6 cand)  trap 2222222322222322223222223
+k=25 n=55 m= 5: predicted jmin 10  (4 cand)  trap 2222232222322223222322223
+k=25 n=56 m= 6: predicted jmin  8  (15 cand)  trap 2222322223222322232232223
+k=25 n=57 m= 7: predicted jmin  7  (4 cand)  trap 2223222322232232232223223
+k=25 n=58 m= 8: predicted jmin  9  (28 cand)  trap 2223223222322322323223223
+k=25 n=59 m= 9: predicted jmin 11  (3 cand)  trap 2232232232232232322322323
+k=25 n=60 m=10: predicted jmin 10  (4 cand)  trap 2232232322323232232322323
+k=25 n=61 m=11: predicted jmin  9  (14 cand)  trap 2232323223232322323232323
+k=25 n=62 m=12: predicted jmin  8  (66 cand)  trap 2232323232232323233232323
+k=26 n=53 m= 1: predicted jmin  9  (326 cand)  trap 12222222232222222322222222
+k=26 n=54 m= 2: predicted jmin 13  (12 cand)  trap 22222222222223222222222223
+k=26 n=55 m= 3: predicted jmin  9  (99 cand)  trap 22222222232222222322222223
+k=26 n=56 m= 4: predicted jmin 13  (1 cand)  trap 22222232222223222223222223
+k=26 n=57 m= 5: predicted jmin 10  (10 cand)  trap 22222322222322223222322223
+k=26 n=58 m= 6: predicted jmin 13  (2 cand)  trap 22223222322223222322232223
+k=26 n=59 m= 7: predicted jmin 11  (2 cand)  trap 22232223222322232232223223
+k=26 n=60 m= 8: predicted jmin 13  (3 cand)  trap 22232232232223223223223223
+k=26 n=61 m= 9: predicted jmin  9  (36 cand)  trap 22232232232322322323223223
+k=26 n=62 m=10: predicted jmin 13  (1 cand)  trap 22322323223223232232322323
+k=26 n=63 m=11: predicted jmin  7  (6 cand)  trap 22323223232232323232232323
+k=26 n=64 m=12: predicted jmin 13  (5 cand)  trap 22323232323223232323232323
+k=26 n=65 m=13: predicted jmin 12  (12 cand)  trap 22323232323233232323232323
+k=27 n=55 m= 1: predicted jmin  9  (352 cand)  trap 122222222322222222322222222
+k=27 n=56 m= 2: predicted jmin 13  (12 cand)  trap 222222222222223222222222223
+k=27 n=57 m= 3: predicted jmin  9  (108 cand)  trap 222222222322222222322222223
+k=27 n=58 m= 4: predicted jmin  7  (6 cand)  trap 222222232222232222232222223
+k=27 n=59 m= 5: predicted jmin 11  (1 cand)  trap 222223222223222232222322223
+k=27 n=60 m= 6: predicted jmin  9  (3 cand)  trap 222232222322232223222232223
+k=27 n=61 m= 7: predicted jmin  8  (21 cand)  trap 222232223222322322232232223
+k=27 n=62 m= 8: predicted jmin 10  (6 cand)  trap 222322322232232223223223223
+k=27 n=63 m= 9: predicted jmin 12  (8 cand)  trap 222322322322323223223223223
+k=27 n=64 m=10: predicted jmin  8  (11 cand)  trap 223223223223232232232322323
+k=27 n=65 m=11: predicted jmin 10  (10 cand)  trap 223223232232323223232322323
+k=27 n=66 m=12: predicted jmin  9  (18 cand)  trap 223232322323232322323232323
+k=27 n=67 m=13: predicted jmin  9  (78 cand)  trap 223232322323232323323232323
+k=28 n=57 m= 1: predicted jmin  9  (379 cand)  trap 1222222223222222232222222222
+k=28 n=58 m= 2: predicted jmin 14  (13 cand)  trap 2222222222222232222222222223
+k=28 n=59 m= 3: predicted jmin  9  (116 cand)  trap 2222222223222222222322222223
+k=28 n=60 m= 4: predicted jmin 14  (3 cand)  trap 2222222322222232222232222223
+k=28 n=61 m= 5: predicted jmin 11  (1 cand)  trap 2222232222232222232222322223
+k=28 n=62 m= 6: predicted jmin 14  (2 cand)  trap 2222322223222232223222232223
+k=28 n=63 m= 7: predicted jmin 12  (6 cand)  trap 2222322232223223222322232223
+k=28 n=64 m= 8: predicted jmin 14  (3 cand)  trap 2223222322322232232232223223
+k=28 n=65 m= 9: predicted jmin  9  (36 cand)  trap 2223223222322322323223223223
+k=28 n=66 m=10: predicted jmin 14  (4 cand)  trap 2232232232232232322322322323
+k=28 n=67 m=11: predicted jmin 10  (10 cand)  trap 2232232322322323223232322323
+k=28 n=68 m=12: predicted jmin 14  (3 cand)  trap 2232322323232232323232232323
+k=28 n=69 m=13: predicted jmin 13  (5 cand)  trap 2232323232322323232323232323
+k=28 n=70 m=14: predicted jmin 14  (13 cand)  trap 2232323232323233232323232323
+k=29 n=59 m= 1: predicted jmin 10  (407 cand)  trap 12222222223222222223222222222
+k=29 n=60 m= 2: predicted jmin 14  (13 cand)  trap 22222222222222232222222222223
+k=29 n=61 m= 3: predicted jmin 10  (125 cand)  trap 22222222223222222223222222223
+k=29 n=62 m= 4: predicted jmin  8  (6 cand)  trap 22222222322222232222232222223
+k=29 n=63 m= 5: predicted jmin 11  (10 cand)  trap 22222232222232222322223222223
+k=29 n=64 m= 6: predicted jmin 10  (15 cand)  trap 22222322223222322223222322223
+k=29 n=65 m= 7: predicted jmin  9  (21 cand)  trap 22223222232223222322322232223
+k=29 n=66 m= 8: predicted jmin 11  (6 cand)  trap 22232223222322322232232223223
+k=29 n=67 m= 9: predicted jmin 13  (3 cand)  trap 22232232232223223223223223223
+k=29 n=68 m=10: predicted jmin  9  (45 cand)  trap 22232232232322322322323223223
+k=29 n=69 m=11: predicted jmin  8  (6 cand)  trap 22322322323223223232232322323
+k=29 n=70 m=12: predicted jmin 12  (1 cand)  trap 22323223232232322323232232323
+k=29 n=71 m=13: predicted jmin  9  (21 cand)  trap 22323232232323223232323232323
+k=29 n=72 m=14: predicted jmin 10  (91 cand)  trap 22323232322323232323323232323
+k=30 n=61 m= 1: predicted jmin 10  (436 cand)  trap 122222222223222222223222222222
+k=30 n=62 m= 2: predicted jmin 15  (14 cand)  trap 222222222222222322222222222223
+k=30 n=63 m= 3: predicted jmin 10  (135 cand)  trap 222222222223222222223222222223
+k=30 n=64 m= 4: predicted jmin 15  (1 cand)  trap 222222232222222322222232222223
+k=30 n=65 m= 5: predicted jmin 12  (4 cand)  trap 222222322222322222322223222223
+k=30 n=66 m= 6: predicted jmin 15  (5 cand)  trap 222223222232222322232222322223
+k=30 n=67 m= 7: predicted jmin 13  (2 cand)  trap 222232223222232223222322232223
+k=30 n=68 m= 8: predicted jmin 15  (3 cand)  trap 222322232223222322322232223223
+k=30 n=69 m= 9: predicted jmin 10  (9 cand)  trap 222322322232232232232223223223
+k=30 n=70 m=10: predicted jmin 15  (9 cand)  trap 222322322322322323223223223223
+k=30 n=71 m=11: predicted jmin 11  (14 cand)  trap 223223223223232232232322322323
+k=30 n=72 m=12: predicted jmin 15  (5 cand)  trap 223223232232322323232232322323
+k=30 n=73 m=13: predicted jmin  9  (6 cand)  trap 223232232323223232323232232323
+k=30 n=74 m=14: predicted jmin 15  (6 cand)  trap 223232323232322323232323232323
+k=30 n=75 m=15: predicted jmin 14  (14 cand)  trap 223232323232323233232323232323
+k=31 n=63 m= 1: predicted jmin 10  (466 cand)  trap 1222222222232222222223222222222
+k=31 n=64 m= 2: predicted jmin 15  (14 cand)  trap 2222222222222222322222222222223
+k=31 n=65 m= 3: predicted jmin 10  (144 cand)  trap 2222222222322222222223222222223
+k=31 n=66 m= 4: predicted jmin  8  (6 cand)  trap 2222222232222223222222322222223
+k=31 n=67 m= 5: predicted jmin 12  (10 cand)  trap 2222223222222322222322223222223
+k=31 n=68 m= 6: predicted jmin 10  (15 cand)  trap 2222232222232222322223222322223
+k=31 n=69 m= 7: predicted jmin  9  (4 cand)  trap 2222322223222322232222322232223
+k=31 n=70 m= 8: predicted jmin 11  (28 cand)  trap 2222322232223223222322322232223
+k=31 n=71 m= 9: predicted jmin 10  (6 cand)  trap 2223222322322232232232232223223
+k=31 n=72 m=10: predicted jmin 10  (45 cand)  trap 2223223222322322322323223223223
+k=31 n=73 m=11: predicted jmin 14  (4 cand)  trap 2232232232232232232322322322323
+k=31 n=74 m=12: predicted jmin 13  (1 cand)  trap 2232232322322323223232232322323
+k=31 n=75 m=13: predicted jmin 12  (1 cand)  trap 2232322323223232322323232232323
+k=31 n=76 m=14: predicted jmin 11  (25 cand)  trap 2232323232232323232232323232323
+k=31 n=77 m=15: predicted jmin 10  (105 cand)  trap 2232323232322323232323323232323
+k=32 n=65 m= 1: predicted jmin 11  (497 cand)  trap 12222222222322222222232222222222
+k=32 n=66 m= 2: predicted jmin 16  (15 cand)  trap 22222222222222223222222222222223
+k=32 n=67 m= 3: predicted jmin 11  (154 cand)  trap 22222222222322222222232222222223
+k=32 n=68 m= 4: predicted jmin 16  (3 cand)  trap 22222222322222223222222322222223
+k=32 n=69 m= 5: predicted jmin 13  (1 cand)  trap 22222232222223222223222223222223
+k=32 n=70 m= 6: predicted jmin 16  (2 cand)  trap 22222322223222223222232222322223
+k=32 n=71 m= 7: predicted jmin  9  (4 cand)  trap 22223222232222322232222322232223
+k=32 n=72 m= 8: predicted jmin 16  (7 cand)  trap 22223222322232223223222322232223
+k=32 n=73 m= 9: predicted jmin 11  (6 cand)  trap 22232223222322322232232232223223
+k=32 n=74 m=10: predicted jmin 16  (4 cand)  trap 22232232232232223223223223223223
+k=32 n=75 m=11: predicted jmin 11  (55 cand)  trap 22232232232232322322323223223223
+k=32 n=76 m=12: predicted jmin 16  (3 cand)  trap 22322322323223223232232322322323
+k=32 n=77 m=13: predicted jmin 10  (15 cand)  trap 22322323223232322323223232322323
+k=32 n=78 m=14: predicted jmin 16  (1 cand)  trap 22323232232323223232323223232323
+k=32 n=79 m=15: predicted jmin 15  (6 cand)  trap 22323232323232232323232323232323
+k=32 n=80 m=16: predicted jmin 16  (15 cand)  trap 22323232323232323323232323232323

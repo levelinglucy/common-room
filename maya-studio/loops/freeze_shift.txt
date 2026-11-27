@@ -1,0 +1,84 @@
+L= 8 mod3=2 delay=0 cut_ok=True corner_at_contact=7 7s@+40=  6/28 hole_at(2,L)=0 5/6_nearby@+400=0
+L= 8 mod3=2 delay=1 cut_ok=True corner_at_contact=1 7s@+40=  6/28 hole_at(2,L)=0 5/6_nearby@+400=10
+L= 8 mod3=2 delay=2 cut_ok=True corner_at_contact=0 7s@+40= 15/28 hole_at(2,L)=2 5/6_nearby@+400=13
+L= 8 mod3=2 delay=3 cut_ok=True corner_at_contact=7 7s@+40=  6/28 hole_at(2,L)=0 5/6_nearby@+400=0
+L= 8 mod3=2 delay=4 cut_ok=True corner_at_contact=1 7s@+40=  6/28 hole_at(2,L)=0 5/6_nearby@+400=14
+L= 8 mod3=2 delay=5 cut_ok=True corner_at_contact=0 7s@+40= 15/28 hole_at(2,L)=2 5/6_nearby@+400=13
+L= 9 mod3=0 delay=0 cut_ok=True corner_at_contact=0 7s@+40= 24/32 hole_at(2,L)=2 5/6_nearby@+400=11
+L= 9 mod3=0 delay=1 cut_ok=True corner_at_contact=7 7s@+40=  7/32 hole_at(2,L)=0 5/6_nearby@+400=3
+L= 9 mod3=0 delay=2 cut_ok=True corner_at_contact=1 7s@+40=  7/32 hole_at(2,L)=0 5/6_nearby@+400=8
+L= 9 mod3=0 delay=3 cut_ok=True corner_at_contact=0 7s@+40= 21/32 hole_at(2,L)=2 5/6_nearby@+400=13
+L= 9 mod3=0 delay=4 cut_ok=True corner_at_contact=7 7s@+40=  7/32 hole_at(2,L)=0 5/6_nearby@+400=3
+L= 9 mod3=0 delay=5 cut_ok=True corner_at_contact=1 7s@+40=  7/32 hole_at(2,L)=0 5/6_nearby@+400=7
+L=10 mod3=1 delay=0 cut_ok=True corner_at_contact=1 7s@+40=  8/36 hole_at(2,L)=0 5/6_nearby@+400=0
+L=10 mod3=1 delay=1 cut_ok=True corner_at_contact=0 7s@+40= 24/36 hole_at(2,L)=2 5/6_nearby@+400=12
+L=10 mod3=1 delay=2 cut_ok=True corner_at_contact=7 7s@+40=  8/36 hole_at(2,L)=0 5/6_nearby@+400=0
+L=10 mod3=1 delay=3 cut_ok=True corner_at_contact=1 7s@+40=  8/36 hole_at(2,L)=0 5/6_nearby@+400=10
+L=10 mod3=1 delay=4 cut_ok=True corner_at_contact=0 7s@+40= 19/36 hole_at(2,L)=2 5/6_nearby@+400=11
+L=10 mod3=1 delay=5 cut_ok=True corner_at_contact=7 7s@+40=  8/36 hole_at(2,L)=0 5/6_nearby@+400=0
+L=11 mod3=2 delay=0 cut_ok=True corner_at_contact=7 7s@+40=  9/40 hole_at(2,L)=0 5/6_nearby@+400=0
+L=11 mod3=2 delay=1 cut_ok=True corner_at_contact=1 7s@+40=  9/40 hole_at(2,L)=0 5/6_nearby@+400=15
+L=11 mod3=2 delay=2 cut_ok=True corner_at_contact=0 7s@+40= 30/40 hole_at(2,L)=2 5/6_nearby@+400=18
+L=11 mod3=2 delay=3 cut_ok=True corner_at_contact=7 7s@+40=  9/40 hole_at(2,L)=0 5/6_nearby@+400=0
+L=11 mod3=2 delay=4 cut_ok=True corner_at_contact=1 7s@+40=  9/40 hole_at(2,L)=0 5/6_nearby@+400=17
+L=11 mod3=2 delay=5 cut_ok=True corner_at_contact=0 7s@+40= 26/40 hole_at(2,L)=2 5/6_nearby@+400=18
+L=12 mod3=0 delay=0 cut_ok=True corner_at_contact=0 7s@+40= 23/44 hole_at(2,L)=2 5/6_nearby@+400=15
+L=12 mod3=0 delay=1 cut_ok=True corner_at_contact=7 7s@+40= 10/44 hole_at(2,L)=0 5/6_nearby@+400=5
+L=12 mod3=0 delay=2 cut_ok=True corner_at_contact=1 7s@+40= 10/44 hole_at(2,L)=0 5/6_nearby@+400=13
+L=12 mod3=0 delay=3 cut_ok=True corner_at_contact=0 7s@+40= 23/44 hole_at(2,L)=2 5/6_nearby@+400=17
+L=12 mod3=0 delay=4 cut_ok=True corner_at_contact=7 7s@+40= 10/44 hole_at(2,L)=0 5/6_nearby@+400=5
+L=12 mod3=0 delay=5 cut_ok=True corner_at_contact=1 7s@+40= 10/44 hole_at(2,L)=0 5/6_nearby@+400=12
+L=13 mod3=1 delay=0 cut_ok=True corner_at_contact=1 7s@+40= 11/48 hole_at(2,L)=0 5/6_nearby@+400=0
+L=13 mod3=1 delay=1 cut_ok=True corner_at_contact=0 7s@+40= 25/48 hole_at(2,L)=2 5/6_nearby@+400=19
+L=13 mod3=1 delay=2 cut_ok=True corner_at_contact=7 7s@+40= 11/48 hole_at(2,L)=0 5/6_nearby@+400=0
+L=13 mod3=1 delay=3 cut_ok=True corner_at_contact=1 7s@+40= 11/48 hole_at(2,L)=0 5/6_nearby@+400=16
+L=13 mod3=1 delay=4 cut_ok=True corner_at_contact=0 7s@+40= 26/48 hole_at(2,L)=2 5/6_nearby@+400=16
+L=13 mod3=1 delay=5 cut_ok=True corner_at_contact=7 7s@+40= 11/48 hole_at(2,L)=0 5/6_nearby@+400=0
+L=14 mod3=2 delay=0 cut_ok=True corner_at_contact=7 7s@+40= 12/52 hole_at(2,L)=0 5/6_nearby@+400=0
+L=14 mod3=2 delay=1 cut_ok=True corner_at_contact=1 7s@+40= 12/52 hole_at(2,L)=0 5/6_nearby@+400=19
+L=14 mod3=2 delay=2 cut_ok=True corner_at_contact=0 7s@+40= 31/52 hole_at(2,L)=2 5/6_nearby@+400=25
+L=14 mod3=2 delay=3 cut_ok=True corner_at_contact=7 7s@+40= 12/52 hole_at(2,L)=0 5/6_nearby@+400=0
+L=14 mod3=2 delay=4 cut_ok=True corner_at_contact=1 7s@+40= 12/52 hole_at(2,L)=0 5/6_nearby@+400=23
+L=14 mod3=2 delay=5 cut_ok=True corner_at_contact=0 7s@+40= 27/52 hole_at(2,L)=2 5/6_nearby@+400=24
+L=15 mod3=0 delay=0 cut_ok=True corner_at_contact=0 7s@+40= 37/56 hole_at(2,L)=2 5/6_nearby@+400=22
+L=15 mod3=0 delay=1 cut_ok=True corner_at_contact=7 7s@+40= 13/56 hole_at(2,L)=0 5/6_nearby@+400=7
+L=15 mod3=0 delay=2 cut_ok=True corner_at_contact=1 7s@+40= 13/56 hole_at(2,L)=0 5/6_nearby@+400=18
+L=15 mod3=0 delay=3 cut_ok=True corner_at_contact=0 7s@+40= 36/56 hole_at(2,L)=2 5/6_nearby@+400=24
+L=15 mod3=0 delay=4 cut_ok=True corner_at_contact=7 7s@+40= 13/56 hole_at(2,L)=0 5/6_nearby@+400=7
+L=15 mod3=0 delay=5 cut_ok=True corner_at_contact=1 7s@+40= 13/56 hole_at(2,L)=0 5/6_nearby@+400=17
+L=16 mod3=1 delay=0 cut_ok=True corner_at_contact=1 7s@+40= 14/60 hole_at(2,L)=0 5/6_nearby@+400=0
+L=16 mod3=1 delay=1 cut_ok=True corner_at_contact=0 7s@+40= 38/60 hole_at(2,L)=2 5/6_nearby@+400=23
+L=16 mod3=1 delay=2 cut_ok=True corner_at_contact=7 7s@+40= 14/60 hole_at(2,L)=0 5/6_nearby@+400=0
+L=16 mod3=1 delay=3 cut_ok=True corner_at_contact=1 7s@+40= 14/60 hole_at(2,L)=0 5/6_nearby@+400=22
+L=16 mod3=1 delay=4 cut_ok=True corner_at_contact=0 7s@+40= 31/60 hole_at(2,L)=2 5/6_nearby@+400=22
+L=16 mod3=1 delay=5 cut_ok=True corner_at_contact=7 7s@+40= 14/60 hole_at(2,L)=0 5/6_nearby@+400=0
+L=17 mod3=2 delay=0 cut_ok=True corner_at_contact=7 7s@+40= 15/64 hole_at(2,L)=0 5/6_nearby@+400=0
+L=17 mod3=2 delay=1 cut_ok=True corner_at_contact=1 7s@+40= 15/64 hole_at(2,L)=0 5/6_nearby@+400=27
+L=17 mod3=2 delay=2 cut_ok=True corner_at_contact=0 7s@+40= 42/64 hole_at(2,L)=2 5/6_nearby@+400=30
+L=17 mod3=2 delay=3 cut_ok=True corner_at_contact=7 7s@+40= 15/64 hole_at(2,L)=0 5/6_nearby@+400=0
+L=17 mod3=2 delay=4 cut_ok=True corner_at_contact=1 7s@+40= 15/64 hole_at(2,L)=0 5/6_nearby@+400=29
+L=17 mod3=2 delay=5 cut_ok=True corner_at_contact=0 7s@+40= 40/64 hole_at(2,L)=2 5/6_nearby@+400=30
+L=18 mod3=0 delay=0 cut_ok=True corner_at_contact=0 7s@+40= 43/68 hole_at(2,L)=2 5/6_nearby@+400=26
+L=18 mod3=0 delay=1 cut_ok=True corner_at_contact=7 7s@+40= 16/68 hole_at(2,L)=0 5/6_nearby@+400=9
+L=18 mod3=0 delay=2 cut_ok=True corner_at_contact=1 7s@+40= 16/68 hole_at(2,L)=0 5/6_nearby@+400=24
+L=18 mod3=0 delay=3 cut_ok=True corner_at_contact=0 7s@+40= 41/68 hole_at(2,L)=2 5/6_nearby@+400=29
+L=18 mod3=0 delay=4 cut_ok=True corner_at_contact=7 7s@+40= 16/68 hole_at(2,L)=0 5/6_nearby@+400=9
+L=18 mod3=0 delay=5 cut_ok=True corner_at_contact=1 7s@+40= 16/68 hole_at(2,L)=0 5/6_nearby@+400=22
+L=19 mod3=1 delay=0 cut_ok=True corner_at_contact=1 7s@+40= 17/72 hole_at(2,L)=0 5/6_nearby@+400=0
+L=19 mod3=1 delay=1 cut_ok=True corner_at_contact=0 7s@+40= 43/72 hole_at(2,L)=2 5/6_nearby@+400=31
+L=19 mod3=1 delay=2 cut_ok=True corner_at_contact=7 7s@+40= 17/72 hole_at(2,L)=0 5/6_nearby@+400=0
+L=19 mod3=1 delay=3 cut_ok=True corner_at_contact=1 7s@+40= 17/72 hole_at(2,L)=0 5/6_nearby@+400=5
+L=19 mod3=1 delay=4 cut_ok=True corner_at_contact=0 7s@+40= 38/72 hole_at(2,L)=2 5/6_nearby@+400=28
+L=19 mod3=1 delay=5 cut_ok=True corner_at_contact=7 7s@+40= 17/72 hole_at(2,L)=0 5/6_nearby@+400=0
+L=20 mod3=2 delay=0 cut_ok=True corner_at_contact=7 7s@+40= 18/76 hole_at(2,L)=0 5/6_nearby@+400=3
+L=20 mod3=2 delay=1 cut_ok=True corner_at_contact=1 7s@+40= 18/76 hole_at(2,L)=0 5/6_nearby@+400=4
+L=20 mod3=2 delay=2 cut_ok=True corner_at_contact=0 7s@+40= 45/76 hole_at(2,L)=2 5/6_nearby@+400=34
+L=20 mod3=2 delay=3 cut_ok=True corner_at_contact=7 7s@+40= 18/76 hole_at(2,L)=0 5/6_nearby@+400=3
+L=20 mod3=2 delay=4 cut_ok=True corner_at_contact=1 7s@+40= 18/76 hole_at(2,L)=0 5/6_nearby@+400=3
+L=20 mod3=2 delay=5 cut_ok=True corner_at_contact=0 7s@+40= 45/76 hole_at(2,L)=2 5/6_nearby@+400=33
+L=21 mod3=0 delay=0 cut_ok=True corner_at_contact=0 7s@+40= 46/80 hole_at(2,L)=2 5/6_nearby@+400=33
+L=21 mod3=0 delay=1 cut_ok=True corner_at_contact=7 7s@+40= 19/80 hole_at(2,L)=0 5/6_nearby@+400=1
+L=21 mod3=0 delay=2 cut_ok=True corner_at_contact=1 7s@+40= 19/80 hole_at(2,L)=0 5/6_nearby@+400=1
+L=21 mod3=0 delay=3 cut_ok=True corner_at_contact=0 7s@+40= 46/80 hole_at(2,L)=2 5/6_nearby@+400=36
+L=21 mod3=0 delay=4 cut_ok=True corner_at_contact=7 7s@+40= 19/80 hole_at(2,L)=0 5/6_nearby@+400=1
+L=21 mod3=0 delay=5 cut_ok=True corner_at_contact=1 7s@+40= 19/80 hole_at(2,L)=0 5/6_nearby@+400=1

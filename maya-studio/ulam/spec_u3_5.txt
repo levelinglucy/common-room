@@ -1,0 +1,6 @@
+u3_5.txt: 56388 terms, max 499996, FFT length 2097152
+  alpha 2.0048500  |mean e^(i a u)| 0.8519  mean cos -0.8216
+  alpha 2.2734884  |mean e^(i a u)| 0.5233  mean cos +0.5081
+  alpha 2.0048320  |mean e^(i a u)| 0.1817  mean cos -0.0835
+  alpha 2.0048679  |mean e^(i a u)| 0.1787  mean cos +0.0073
+  refined: alpha 2.0048488827  mean cos -0.86365  period 2pi/alpha 3.13399447

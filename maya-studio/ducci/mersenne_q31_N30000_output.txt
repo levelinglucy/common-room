@@ -1,0 +1,8 @@
+PARI stack size set to 4000000000 bytes, maximum size set to 4000002048
+q = 31 (degree-5 subfield), one die, primes p < 30000: 377 cases, 11s
+units_one  q|h  eig2   cases  cut
+        0    0     0     366     0
+        1    0     0      11    11
+rule 'units one OR eigenvalue 2 on Cl/q' agrees 377/377
+disagreements: []
+class-group cuts (units not one): []

@@ -1,0 +1,399 @@
+d=3 base 2: 1 attractors, lengths [1]  <== UNIQUE (0.1.1)
+d=3 base 3: 1 attractors, lengths [2]
+d=3 base 4: 1 attractors, lengths [1]  <== UNIQUE (1.3.2)
+d=3 base 5: 1 attractors, lengths [2]
+d=3 base 6: 1 attractors, lengths [1]  <== UNIQUE (2.5.3)
+d=3 base 7: 1 attractors, lengths [2]
+d=3 base 8: 1 attractors, lengths [1]  <== UNIQUE (3.7.4)
+d=3 base 9: 1 attractors, lengths [2]
+d=3 base 10: 1 attractors, lengths [1]  <== UNIQUE (4.9.5)
+d=3 base 11: 1 attractors, lengths [2]
+d=3 base 12: 1 attractors, lengths [1]  <== UNIQUE (5.11.6)
+d=3 base 13: 1 attractors, lengths [2]
+d=3 base 14: 1 attractors, lengths [1]  <== UNIQUE (6.13.7)
+d=3 base 15: 1 attractors, lengths [2]
+d=3 base 16: 1 attractors, lengths [1]  <== UNIQUE (7.15.8)
+d=3 base 17: 1 attractors, lengths [2]
+d=3 base 18: 1 attractors, lengths [1]  <== UNIQUE (8.17.9)
+d=3 base 19: 1 attractors, lengths [2]
+d=3 base 20: 1 attractors, lengths [1]  <== UNIQUE (9.19.10)
+d=3 base 21: 1 attractors, lengths [2]
+d=3 base 22: 1 attractors, lengths [1]  <== UNIQUE (10.21.11)
+d=3 base 23: 1 attractors, lengths [2]
+d=3 base 24: 1 attractors, lengths [1]  <== UNIQUE (11.23.12)
+d=3 base 25: 1 attractors, lengths [2]
+d=3 base 26: 1 attractors, lengths [1]  <== UNIQUE (12.25.13)
+d=3 base 27: 1 attractors, lengths [2]
+d=3 base 28: 1 attractors, lengths [1]  <== UNIQUE (13.27.14)
+d=3 base 29: 1 attractors, lengths [2]
+d=3 base 30: 1 attractors, lengths [1]  <== UNIQUE (14.29.15)
+d=3 base 31: 1 attractors, lengths [2]
+d=3 base 32: 1 attractors, lengths [1]  <== UNIQUE (15.31.16)
+d=3 base 33: 1 attractors, lengths [2]
+d=3 base 34: 1 attractors, lengths [1]  <== UNIQUE (16.33.17)
+d=3 base 35: 1 attractors, lengths [2]
+d=3 base 36: 1 attractors, lengths [1]  <== UNIQUE (17.35.18)
+d=3 base 37: 1 attractors, lengths [2]
+d=3 base 38: 1 attractors, lengths [1]  <== UNIQUE (18.37.19)
+d=3 base 39: 1 attractors, lengths [2]
+d=3 base 40: 1 attractors, lengths [1]  <== UNIQUE (19.39.20)
+d=3 base 41: 1 attractors, lengths [2]
+d=3 base 42: 1 attractors, lengths [1]  <== UNIQUE (20.41.21)
+d=3 base 43: 1 attractors, lengths [2]
+d=3 base 44: 1 attractors, lengths [1]  <== UNIQUE (21.43.22)
+d=3 base 45: 1 attractors, lengths [2]
+d=3 base 46: 1 attractors, lengths [1]  <== UNIQUE (22.45.23)
+d=3 base 47: 1 attractors, lengths [2]
+d=3 base 48: 1 attractors, lengths [1]  <== UNIQUE (23.47.24)
+d=3 base 49: 1 attractors, lengths [2]
+d=3 base 50: 1 attractors, lengths [1]  <== UNIQUE (24.49.25)
+d=3 base 51: 1 attractors, lengths [2]
+d=3 base 52: 1 attractors, lengths [1]  <== UNIQUE (25.51.26)
+d=3 base 53: 1 attractors, lengths [2]
+d=3 base 54: 1 attractors, lengths [1]  <== UNIQUE (26.53.27)
+d=3 base 55: 1 attractors, lengths [2]
+d=3 base 56: 1 attractors, lengths [1]  <== UNIQUE (27.55.28)
+d=3 base 57: 1 attractors, lengths [2]
+d=3 base 58: 1 attractors, lengths [1]  <== UNIQUE (28.57.29)
+d=3 base 59: 1 attractors, lengths [2]
+d=3 base 60: 1 attractors, lengths [1]  <== UNIQUE (29.59.30)
+d=3 base 61: 1 attractors, lengths [2]
+d=3 base 62: 1 attractors, lengths [1]  <== UNIQUE (30.61.31)
+d=3 base 63: 1 attractors, lengths [2]
+d=3 base 64: 1 attractors, lengths [1]  <== UNIQUE (31.63.32)
+d=3 base 65: 1 attractors, lengths [2]
+d=3 base 66: 1 attractors, lengths [1]  <== UNIQUE (32.65.33)
+d=3 base 67: 1 attractors, lengths [2]
+d=3 base 68: 1 attractors, lengths [1]  <== UNIQUE (33.67.34)
+d=3 base 69: 1 attractors, lengths [2]
+d=3 base 70: 1 attractors, lengths [1]  <== UNIQUE (34.69.35)
+d=3 base 71: 1 attractors, lengths [2]
+d=3 base 72: 1 attractors, lengths [1]  <== UNIQUE (35.71.36)
+d=3 base 73: 1 attractors, lengths [2]
+d=3 base 74: 1 attractors, lengths [1]  <== UNIQUE (36.73.37)
+d=3 base 75: 1 attractors, lengths [2]
+d=3 base 76: 1 attractors, lengths [1]  <== UNIQUE (37.75.38)
+d=3 base 77: 1 attractors, lengths [2]
+d=3 base 78: 1 attractors, lengths [1]  <== UNIQUE (38.77.39)
+d=3 base 79: 1 attractors, lengths [2]
+d=3 base 80: 1 attractors, lengths [1]  <== UNIQUE (39.79.40)
+d=3 base 81: 1 attractors, lengths [2]
+d=3 base 82: 1 attractors, lengths [1]  <== UNIQUE (40.81.41)
+d=3 base 83: 1 attractors, lengths [2]
+d=3 base 84: 1 attractors, lengths [1]  <== UNIQUE (41.83.42)
+d=3 base 85: 1 attractors, lengths [2]
+d=3 base 86: 1 attractors, lengths [1]  <== UNIQUE (42.85.43)
+d=3 base 87: 1 attractors, lengths [2]
+d=3 base 88: 1 attractors, lengths [1]  <== UNIQUE (43.87.44)
+d=3 base 89: 1 attractors, lengths [2]
+d=3 base 90: 1 attractors, lengths [1]  <== UNIQUE (44.89.45)
+d=3 base 91: 1 attractors, lengths [2]
+d=3 base 92: 1 attractors, lengths [1]  <== UNIQUE (45.91.46)
+d=3 base 93: 1 attractors, lengths [2]
+d=3 base 94: 1 attractors, lengths [1]  <== UNIQUE (46.93.47)
+d=3 base 95: 1 attractors, lengths [2]
+d=3 base 96: 1 attractors, lengths [1]  <== UNIQUE (47.95.48)
+d=3 base 97: 1 attractors, lengths [2]
+d=3 base 98: 1 attractors, lengths [1]  <== UNIQUE (48.97.49)
+d=3 base 99: 1 attractors, lengths [2]
+d=3 base 100: 1 attractors, lengths [1]  <== UNIQUE (49.99.50)
+d=3 base 101: 1 attractors, lengths [2]
+d=3 base 102: 1 attractors, lengths [1]  <== UNIQUE (50.101.51)
+d=3 base 103: 1 attractors, lengths [2]
+d=3 base 104: 1 attractors, lengths [1]  <== UNIQUE (51.103.52)
+d=3 base 105: 1 attractors, lengths [2]
+d=3 base 106: 1 attractors, lengths [1]  <== UNIQUE (52.105.53)
+d=3 base 107: 1 attractors, lengths [2]
+d=3 base 108: 1 attractors, lengths [1]  <== UNIQUE (53.107.54)
+d=3 base 109: 1 attractors, lengths [2]
+d=3 base 110: 1 attractors, lengths [1]  <== UNIQUE (54.109.55)
+d=3 base 111: 1 attractors, lengths [2]
+d=3 base 112: 1 attractors, lengths [1]  <== UNIQUE (55.111.56)
+d=3 base 113: 1 attractors, lengths [2]
+d=3 base 114: 1 attractors, lengths [1]  <== UNIQUE (56.113.57)
+d=3 base 115: 1 attractors, lengths [2]
+d=3 base 116: 1 attractors, lengths [1]  <== UNIQUE (57.115.58)
+d=3 base 117: 1 attractors, lengths [2]
+d=3 base 118: 1 attractors, lengths [1]  <== UNIQUE (58.117.59)
+d=3 base 119: 1 attractors, lengths [2]
+d=3 base 120: 1 attractors, lengths [1]  <== UNIQUE (59.119.60)
+d=3 base 121: 1 attractors, lengths [2]
+d=3 base 122: 1 attractors, lengths [1]  <== UNIQUE (60.121.61)
+d=3 base 123: 1 attractors, lengths [2]
+d=3 base 124: 1 attractors, lengths [1]  <== UNIQUE (61.123.62)
+d=3 base 125: 1 attractors, lengths [2]
+d=3 base 126: 1 attractors, lengths [1]  <== UNIQUE (62.125.63)
+d=3 base 127: 1 attractors, lengths [2]
+d=3 base 128: 1 attractors, lengths [1]  <== UNIQUE (63.127.64)
+d=3 base 129: 1 attractors, lengths [2]
+d=3 base 130: 1 attractors, lengths [1]  <== UNIQUE (64.129.65)
+d=3 base 131: 1 attractors, lengths [2]
+d=3 base 132: 1 attractors, lengths [1]  <== UNIQUE (65.131.66)
+d=3 base 133: 1 attractors, lengths [2]
+d=3 base 134: 1 attractors, lengths [1]  <== UNIQUE (66.133.67)
+d=3 base 135: 1 attractors, lengths [2]
+d=3 base 136: 1 attractors, lengths [1]  <== UNIQUE (67.135.68)
+d=3 base 137: 1 attractors, lengths [2]
+d=3 base 138: 1 attractors, lengths [1]  <== UNIQUE (68.137.69)
+d=3 base 139: 1 attractors, lengths [2]
+d=3 base 140: 1 attractors, lengths [1]  <== UNIQUE (69.139.70)
+d=3 base 141: 1 attractors, lengths [2]
+d=3 base 142: 1 attractors, lengths [1]  <== UNIQUE (70.141.71)
+d=3 base 143: 1 attractors, lengths [2]
+d=3 base 144: 1 attractors, lengths [1]  <== UNIQUE (71.143.72)
+d=3 base 145: 1 attractors, lengths [2]
+d=3 base 146: 1 attractors, lengths [1]  <== UNIQUE (72.145.73)
+d=3 base 147: 1 attractors, lengths [2]
+d=3 base 148: 1 attractors, lengths [1]  <== UNIQUE (73.147.74)
+d=3 base 149: 1 attractors, lengths [2]
+d=3 base 150: 1 attractors, lengths [1]  <== UNIQUE (74.149.75)
+d=3 base 151: 1 attractors, lengths [2]
+d=3 base 152: 1 attractors, lengths [1]  <== UNIQUE (75.151.76)
+d=3 base 153: 1 attractors, lengths [2]
+d=3 base 154: 1 attractors, lengths [1]  <== UNIQUE (76.153.77)
+d=3 base 155: 1 attractors, lengths [2]
+d=3 base 156: 1 attractors, lengths [1]  <== UNIQUE (77.155.78)
+d=3 base 157: 1 attractors, lengths [2]
+d=3 base 158: 1 attractors, lengths [1]  <== UNIQUE (78.157.79)
+d=3 base 159: 1 attractors, lengths [2]
+d=3 base 160: 1 attractors, lengths [1]  <== UNIQUE (79.159.80)
+d=3 base 161: 1 attractors, lengths [2]
+d=3 base 162: 1 attractors, lengths [1]  <== UNIQUE (80.161.81)
+d=3 base 163: 1 attractors, lengths [2]
+d=3 base 164: 1 attractors, lengths [1]  <== UNIQUE (81.163.82)
+d=3 base 165: 1 attractors, lengths [2]
+d=3 base 166: 1 attractors, lengths [1]  <== UNIQUE (82.165.83)
+d=3 base 167: 1 attractors, lengths [2]
+d=3 base 168: 1 attractors, lengths [1]  <== UNIQUE (83.167.84)
+d=3 base 169: 1 attractors, lengths [2]
+d=3 base 170: 1 attractors, lengths [1]  <== UNIQUE (84.169.85)
+d=3 base 171: 1 attractors, lengths [2]
+d=3 base 172: 1 attractors, lengths [1]  <== UNIQUE (85.171.86)
+d=3 base 173: 1 attractors, lengths [2]
+d=3 base 174: 1 attractors, lengths [1]  <== UNIQUE (86.173.87)
+d=3 base 175: 1 attractors, lengths [2]
+d=3 base 176: 1 attractors, lengths [1]  <== UNIQUE (87.175.88)
+d=3 base 177: 1 attractors, lengths [2]
+d=3 base 178: 1 attractors, lengths [1]  <== UNIQUE (88.177.89)
+d=3 base 179: 1 attractors, lengths [2]
+d=3 base 180: 1 attractors, lengths [1]  <== UNIQUE (89.179.90)
+d=3 base 181: 1 attractors, lengths [2]
+d=3 base 182: 1 attractors, lengths [1]  <== UNIQUE (90.181.91)
+d=3 base 183: 1 attractors, lengths [2]
+d=3 base 184: 1 attractors, lengths [1]  <== UNIQUE (91.183.92)
+d=3 base 185: 1 attractors, lengths [2]
+d=3 base 186: 1 attractors, lengths [1]  <== UNIQUE (92.185.93)
+d=3 base 187: 1 attractors, lengths [2]
+d=3 base 188: 1 attractors, lengths [1]  <== UNIQUE (93.187.94)
+d=3 base 189: 1 attractors, lengths [2]
+d=3 base 190: 1 attractors, lengths [1]  <== UNIQUE (94.189.95)
+d=3 base 191: 1 attractors, lengths [2]
+d=3 base 192: 1 attractors, lengths [1]  <== UNIQUE (95.191.96)
+d=3 base 193: 1 attractors, lengths [2]
+d=3 base 194: 1 attractors, lengths [1]  <== UNIQUE (96.193.97)
+d=3 base 195: 1 attractors, lengths [2]
+d=3 base 196: 1 attractors, lengths [1]  <== UNIQUE (97.195.98)
+d=3 base 197: 1 attractors, lengths [2]
+d=3 base 198: 1 attractors, lengths [1]  <== UNIQUE (98.197.99)
+d=3 base 199: 1 attractors, lengths [2]
+d=3 base 200: 1 attractors, lengths [1]  <== UNIQUE (99.199.100)
+d=3 base 201: 1 attractors, lengths [2]
+d=3 base 202: 1 attractors, lengths [1]  <== UNIQUE (100.201.101)
+d=3 base 203: 1 attractors, lengths [2]
+d=3 base 204: 1 attractors, lengths [1]  <== UNIQUE (101.203.102)
+d=3 base 205: 1 attractors, lengths [2]
+d=3 base 206: 1 attractors, lengths [1]  <== UNIQUE (102.205.103)
+d=3 base 207: 1 attractors, lengths [2]
+d=3 base 208: 1 attractors, lengths [1]  <== UNIQUE (103.207.104)
+d=3 base 209: 1 attractors, lengths [2]
+d=3 base 210: 1 attractors, lengths [1]  <== UNIQUE (104.209.105)
+d=3 base 211: 1 attractors, lengths [2]
+d=3 base 212: 1 attractors, lengths [1]  <== UNIQUE (105.211.106)
+d=3 base 213: 1 attractors, lengths [2]
+d=3 base 214: 1 attractors, lengths [1]  <== UNIQUE (106.213.107)
+d=3 base 215: 1 attractors, lengths [2]
+d=3 base 216: 1 attractors, lengths [1]  <== UNIQUE (107.215.108)
+d=3 base 217: 1 attractors, lengths [2]
+d=3 base 218: 1 attractors, lengths [1]  <== UNIQUE (108.217.109)
+d=3 base 219: 1 attractors, lengths [2]
+d=3 base 220: 1 attractors, lengths [1]  <== UNIQUE (109.219.110)
+d=3 base 221: 1 attractors, lengths [2]
+d=3 base 222: 1 attractors, lengths [1]  <== UNIQUE (110.221.111)
+d=3 base 223: 1 attractors, lengths [2]
+d=3 base 224: 1 attractors, lengths [1]  <== UNIQUE (111.223.112)
+d=3 base 225: 1 attractors, lengths [2]
+d=3 base 226: 1 attractors, lengths [1]  <== UNIQUE (112.225.113)
+d=3 base 227: 1 attractors, lengths [2]
+d=3 base 228: 1 attractors, lengths [1]  <== UNIQUE (113.227.114)
+d=3 base 229: 1 attractors, lengths [2]
+d=3 base 230: 1 attractors, lengths [1]  <== UNIQUE (114.229.115)
+d=3 base 231: 1 attractors, lengths [2]
+d=3 base 232: 1 attractors, lengths [1]  <== UNIQUE (115.231.116)
+d=3 base 233: 1 attractors, lengths [2]
+d=3 base 234: 1 attractors, lengths [1]  <== UNIQUE (116.233.117)
+d=3 base 235: 1 attractors, lengths [2]
+d=3 base 236: 1 attractors, lengths [1]  <== UNIQUE (117.235.118)
+d=3 base 237: 1 attractors, lengths [2]
+d=3 base 238: 1 attractors, lengths [1]  <== UNIQUE (118.237.119)
+d=3 base 239: 1 attractors, lengths [2]
+d=3 base 240: 1 attractors, lengths [1]  <== UNIQUE (119.239.120)
+d=3 base 241: 1 attractors, lengths [2]
+d=3 base 242: 1 attractors, lengths [1]  <== UNIQUE (120.241.121)
+d=3 base 243: 1 attractors, lengths [2]
+d=3 base 244: 1 attractors, lengths [1]  <== UNIQUE (121.243.122)
+d=3 base 245: 1 attractors, lengths [2]
+d=3 base 246: 1 attractors, lengths [1]  <== UNIQUE (122.245.123)
+d=3 base 247: 1 attractors, lengths [2]
+d=3 base 248: 1 attractors, lengths [1]  <== UNIQUE (123.247.124)
+d=3 base 249: 1 attractors, lengths [2]
+d=3 base 250: 1 attractors, lengths [1]  <== UNIQUE (124.249.125)
+d=3 base 251: 1 attractors, lengths [2]
+d=3 base 252: 1 attractors, lengths [1]  <== UNIQUE (125.251.126)
+d=3 base 253: 1 attractors, lengths [2]
+d=3 base 254: 1 attractors, lengths [1]  <== UNIQUE (126.253.127)
+d=3 base 255: 1 attractors, lengths [2]
+d=3 base 256: 1 attractors, lengths [1]  <== UNIQUE (127.255.128)
+d=3 base 257: 1 attractors, lengths [2]
+d=3 base 258: 1 attractors, lengths [1]  <== UNIQUE (128.257.129)
+d=3 base 259: 1 attractors, lengths [2]
+d=3 base 260: 1 attractors, lengths [1]  <== UNIQUE (129.259.130)
+d=3 base 261: 1 attractors, lengths [2]
+d=3 base 262: 1 attractors, lengths [1]  <== UNIQUE (130.261.131)
+d=3 base 263: 1 attractors, lengths [2]
+d=3 base 264: 1 attractors, lengths [1]  <== UNIQUE (131.263.132)
+d=3 base 265: 1 attractors, lengths [2]
+d=3 base 266: 1 attractors, lengths [1]  <== UNIQUE (132.265.133)
+d=3 base 267: 1 attractors, lengths [2]
+d=3 base 268: 1 attractors, lengths [1]  <== UNIQUE (133.267.134)
+d=3 base 269: 1 attractors, lengths [2]
+d=3 base 270: 1 attractors, lengths [1]  <== UNIQUE (134.269.135)
+d=3 base 271: 1 attractors, lengths [2]
+d=3 base 272: 1 attractors, lengths [1]  <== UNIQUE (135.271.136)
+d=3 base 273: 1 attractors, lengths [2]
+d=3 base 274: 1 attractors, lengths [1]  <== UNIQUE (136.273.137)
+d=3 base 275: 1 attractors, lengths [2]
+d=3 base 276: 1 attractors, lengths [1]  <== UNIQUE (137.275.138)
+d=3 base 277: 1 attractors, lengths [2]
+d=3 base 278: 1 attractors, lengths [1]  <== UNIQUE (138.277.139)
+d=3 base 279: 1 attractors, lengths [2]
+d=3 base 280: 1 attractors, lengths [1]  <== UNIQUE (139.279.140)
+d=3 base 281: 1 attractors, lengths [2]
+d=3 base 282: 1 attractors, lengths [1]  <== UNIQUE (140.281.141)
+d=3 base 283: 1 attractors, lengths [2]
+d=3 base 284: 1 attractors, lengths [1]  <== UNIQUE (141.283.142)
+d=3 base 285: 1 attractors, lengths [2]
+d=3 base 286: 1 attractors, lengths [1]  <== UNIQUE (142.285.143)
+d=3 base 287: 1 attractors, lengths [2]
+d=3 base 288: 1 attractors, lengths [1]  <== UNIQUE (143.287.144)
+d=3 base 289: 1 attractors, lengths [2]
+d=3 base 290: 1 attractors, lengths [1]  <== UNIQUE (144.289.145)
+d=3 base 291: 1 attractors, lengths [2]
+d=3 base 292: 1 attractors, lengths [1]  <== UNIQUE (145.291.146)
+d=3 base 293: 1 attractors, lengths [2]
+d=3 base 294: 1 attractors, lengths [1]  <== UNIQUE (146.293.147)
+d=3 base 295: 1 attractors, lengths [2]
+d=3 base 296: 1 attractors, lengths [1]  <== UNIQUE (147.295.148)
+d=3 base 297: 1 attractors, lengths [2]
+d=3 base 298: 1 attractors, lengths [1]  <== UNIQUE (148.297.149)
+d=3 base 299: 1 attractors, lengths [2]
+d=3 base 300: 1 attractors, lengths [1]  <== UNIQUE (149.299.150)
+d=3 base 301: 1 attractors, lengths [2]
+d=3 base 302: 1 attractors, lengths [1]  <== UNIQUE (150.301.151)
+d=3 base 303: 1 attractors, lengths [2]
+d=3 base 304: 1 attractors, lengths [1]  <== UNIQUE (151.303.152)
+d=3 base 305: 1 attractors, lengths [2]
+d=3 base 306: 1 attractors, lengths [1]  <== UNIQUE (152.305.153)
+d=3 base 307: 1 attractors, lengths [2]
+d=3 base 308: 1 attractors, lengths [1]  <== UNIQUE (153.307.154)
+d=3 base 309: 1 attractors, lengths [2]
+d=3 base 310: 1 attractors, lengths [1]  <== UNIQUE (154.309.155)
+d=3 base 311: 1 attractors, lengths [2]
+d=3 base 312: 1 attractors, lengths [1]  <== UNIQUE (155.311.156)
+d=3 base 313: 1 attractors, lengths [2]
+d=3 base 314: 1 attractors, lengths [1]  <== UNIQUE (156.313.157)
+d=3 base 315: 1 attractors, lengths [2]
+d=3 base 316: 1 attractors, lengths [1]  <== UNIQUE (157.315.158)
+d=3 base 317: 1 attractors, lengths [2]
+d=3 base 318: 1 attractors, lengths [1]  <== UNIQUE (158.317.159)
+d=3 base 319: 1 attractors, lengths [2]
+d=3 base 320: 1 attractors, lengths [1]  <== UNIQUE (159.319.160)
+d=3 base 321: 1 attractors, lengths [2]
+d=3 base 322: 1 attractors, lengths [1]  <== UNIQUE (160.321.161)
+d=3 base 323: 1 attractors, lengths [2]
+d=3 base 324: 1 attractors, lengths [1]  <== UNIQUE (161.323.162)
+d=3 base 325: 1 attractors, lengths [2]
+d=3 base 326: 1 attractors, lengths [1]  <== UNIQUE (162.325.163)
+d=3 base 327: 1 attractors, lengths [2]
+d=3 base 328: 1 attractors, lengths [1]  <== UNIQUE (163.327.164)
+d=3 base 329: 1 attractors, lengths [2]
+d=3 base 330: 1 attractors, lengths [1]  <== UNIQUE (164.329.165)
+d=3 base 331: 1 attractors, lengths [2]
+d=3 base 332: 1 attractors, lengths [1]  <== UNIQUE (165.331.166)
+d=3 base 333: 1 attractors, lengths [2]
+d=3 base 334: 1 attractors, lengths [1]  <== UNIQUE (166.333.167)
+d=3 base 335: 1 attractors, lengths [2]
+d=3 base 336: 1 attractors, lengths [1]  <== UNIQUE (167.335.168)
+d=3 base 337: 1 attractors, lengths [2]
+d=3 base 338: 1 attractors, lengths [1]  <== UNIQUE (168.337.169)
+d=3 base 339: 1 attractors, lengths [2]
+d=3 base 340: 1 attractors, lengths [1]  <== UNIQUE (169.339.170)
+d=3 base 341: 1 attractors, lengths [2]
+d=3 base 342: 1 attractors, lengths [1]  <== UNIQUE (170.341.171)
+d=3 base 343: 1 attractors, lengths [2]
+d=3 base 344: 1 attractors, lengths [1]  <== UNIQUE (171.343.172)
+d=3 base 345: 1 attractors, lengths [2]
+d=3 base 346: 1 attractors, lengths [1]  <== UNIQUE (172.345.173)
+d=3 base 347: 1 attractors, lengths [2]
+d=3 base 348: 1 attractors, lengths [1]  <== UNIQUE (173.347.174)
+d=3 base 349: 1 attractors, lengths [2]
+d=3 base 350: 1 attractors, lengths [1]  <== UNIQUE (174.349.175)
+d=3 base 351: 1 attractors, lengths [2]
+d=3 base 352: 1 attractors, lengths [1]  <== UNIQUE (175.351.176)
+d=3 base 353: 1 attractors, lengths [2]
+d=3 base 354: 1 attractors, lengths [1]  <== UNIQUE (176.353.177)
+d=3 base 355: 1 attractors, lengths [2]
+d=3 base 356: 1 attractors, lengths [1]  <== UNIQUE (177.355.178)
+d=3 base 357: 1 attractors, lengths [2]
+d=3 base 358: 1 attractors, lengths [1]  <== UNIQUE (178.357.179)
+d=3 base 359: 1 attractors, lengths [2]
+d=3 base 360: 1 attractors, lengths [1]  <== UNIQUE (179.359.180)
+d=3 base 361: 1 attractors, lengths [2]
+d=3 base 362: 1 attractors, lengths [1]  <== UNIQUE (180.361.181)
+d=3 base 363: 1 attractors, lengths [2]
+d=3 base 364: 1 attractors, lengths [1]  <== UNIQUE (181.363.182)
+d=3 base 365: 1 attractors, lengths [2]
+d=3 base 366: 1 attractors, lengths [1]  <== UNIQUE (182.365.183)
+d=3 base 367: 1 attractors, lengths [2]
+d=3 base 368: 1 attractors, lengths [1]  <== UNIQUE (183.367.184)
+d=3 base 369: 1 attractors, lengths [2]
+d=3 base 370: 1 attractors, lengths [1]  <== UNIQUE (184.369.185)
+d=3 base 371: 1 attractors, lengths [2]
+d=3 base 372: 1 attractors, lengths [1]  <== UNIQUE (185.371.186)
+d=3 base 373: 1 attractors, lengths [2]
+d=3 base 374: 1 attractors, lengths [1]  <== UNIQUE (186.373.187)
+d=3 base 375: 1 attractors, lengths [2]
+d=3 base 376: 1 attractors, lengths [1]  <== UNIQUE (187.375.188)
+d=3 base 377: 1 attractors, lengths [2]
+d=3 base 378: 1 attractors, lengths [1]  <== UNIQUE (188.377.189)
+d=3 base 379: 1 attractors, lengths [2]
+d=3 base 380: 1 attractors, lengths [1]  <== UNIQUE (189.379.190)
+d=3 base 381: 1 attractors, lengths [2]
+d=3 base 382: 1 attractors, lengths [1]  <== UNIQUE (190.381.191)
+d=3 base 383: 1 attractors, lengths [2]
+d=3 base 384: 1 attractors, lengths [1]  <== UNIQUE (191.383.192)
+d=3 base 385: 1 attractors, lengths [2]
+d=3 base 386: 1 attractors, lengths [1]  <== UNIQUE (192.385.193)
+d=3 base 387: 1 attractors, lengths [2]
+d=3 base 388: 1 attractors, lengths [1]  <== UNIQUE (193.387.194)
+d=3 base 389: 1 attractors, lengths [2]
+d=3 base 390: 1 attractors, lengths [1]  <== UNIQUE (194.389.195)
+d=3 base 391: 1 attractors, lengths [2]
+d=3 base 392: 1 attractors, lengths [1]  <== UNIQUE (195.391.196)
+d=3 base 393: 1 attractors, lengths [2]
+d=3 base 394: 1 attractors, lengths [1]  <== UNIQUE (196.393.197)
+d=3 base 395: 1 attractors, lengths [2]
+d=3 base 396: 1 attractors, lengths [1]  <== UNIQUE (197.395.198)
+d=3 base 397: 1 attractors, lengths [2]
+d=3 base 398: 1 attractors, lengths [1]  <== UNIQUE (198.397.199)
+d=3 base 399: 1 attractors, lengths [2]
+d=3 base 400: 1 attractors, lengths [1]  <== UNIQUE (199.399.200)

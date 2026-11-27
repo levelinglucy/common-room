@@ -1,0 +1,7 @@
+m=13 B=   40960  correction states   102398  UNIQUE
+m=14 B=   81920  correction states   204798  rival (75910 correction states stay off the fixed point, e.g. [(16448, 16320), (16448, 16320), (16448, 16320)])
+m=15 B=  163840  correction states   409598  UNIQUE
+m=16 B=  327680  correction states   819198  rival (69904 correction states stay off the fixed point, e.g. [(262144, 65535), (262144, 65535), (262144, 65535)])
+m=17 B=  655360  correction states  1638398  UNIQUE
+m=18 B= 1310720  correction states  3276798  rival (1214598 correction states stay off the fixed point, e.g. [(270336, 262144), (270336, 262144), (270336, 262144)])
+m=19 B= 2621440  correction states  6553598  UNIQUE

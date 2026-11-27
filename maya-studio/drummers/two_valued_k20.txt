@@ -1,0 +1,117 @@
+k= 4 n=10 m=2: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 2233
+k= 4 n=14 m=2: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 3344
+k= 5 n=12 m=2: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 22233
+k= 5 n=17 m=2: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 33344
+k= 6 n=14 m=2: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 222323
+k= 6 n=15 m=3: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 222333
+k= 6 n=20 m=2: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 333434
+k= 6 n=21 m=3: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 333444
+k= 7 n=16 m=2: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 2222323
+k= 7 n=17 m=3: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 2222333
+k= 7 n=23 m=2: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 3333434
+k= 7 n=24 m=3: two-valued worst stuck j=1 -> bound 2, sim jmin 2  MATCH  trap 3333444
+k= 8 n=18 m=2: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 22223223
+k= 8 n=19 m=3: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 22232323
+k= 8 n=20 m=4: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 22323323
+k= 8 n=26 m=2: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 33334334
+k= 8 n=27 m=3: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 33343434
+k= 8 n=28 m=4: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 33434434
+k= 9 n=20 m=2: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 222223223
+k= 9 n=21 m=3: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 222232323
+k= 9 n=22 m=4: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 222323323
+k= 9 n=29 m=2: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 333334334
+k= 9 n=30 m=3: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 333343434
+k= 9 n=31 m=4: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 333434434
+k=10 n=22 m=2: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 2222232223
+k=10 n=23 m=3: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 2222232323
+k=10 n=24 m=4: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 2232232323
+k=10 n=25 m=5: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 2232332323
+k=10 n=32 m=2: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 3333343334
+k=10 n=33 m=3: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 3333343434
+k=10 n=34 m=4: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 3343343434
+k=10 n=35 m=5: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 3343443434
+k=11 n=24 m=2: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 22222232223
+k=11 n=25 m=3: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 22223223223
+k=11 n=26 m=4: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 22222323323
+k=11 n=27 m=5: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 22322323323
+k=11 n=35 m=2: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 33333343334
+k=11 n=36 m=3: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 33334334334
+k=11 n=37 m=4: two-valued worst stuck j=2 -> bound 3, sim jmin 3  MATCH  trap 33333434434
+k=11 n=38 m=5: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 33433434434
+k=12 n=26 m=2: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 222222322223
+k=12 n=27 m=3: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 222223223223
+k=12 n=28 m=4: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 222322323223
+k=12 n=29 m=5: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 223223232323
+k=12 n=30 m=6: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 223232332323
+k=12 n=38 m=2: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 333333433334
+k=12 n=39 m=3: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 333334334334
+k=12 n=40 m=4: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 333433434334
+k=12 n=41 m=5: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 334334343434
+k=12 n=42 m=6: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 334343443434
+k=13 n=28 m=2: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 2222222322223
+k=13 n=29 m=3: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 2222223223223
+k=13 n=30 m=4: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 2222322323223
+k=13 n=31 m=5: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 2232232232323
+k=13 n=32 m=6: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 2232232332323
+k=13 n=41 m=2: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 3333333433334
+k=13 n=42 m=3: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 3333334334334
+k=13 n=43 m=4: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 3333433434334
+k=13 n=44 m=5: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 3343343343434
+k=13 n=45 m=6: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 3343343443434
+k=14 n=30 m=2: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 22222223222223
+k=14 n=31 m=3: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 22222322232223
+k=14 n=32 m=4: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 22232223223223
+k=14 n=33 m=5: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 22232232323223
+k=14 n=34 m=6: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 22323223232323
+k=14 n=35 m=7: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 22323233232323
+k=14 n=44 m=2: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 33333334333334
+k=14 n=45 m=3: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 33333433343334
+k=14 n=46 m=4: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 33343334334334
+k=14 n=47 m=5: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 33343343434334
+k=14 n=48 m=6: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 33434334343434
+k=14 n=49 m=7: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 33434344343434
+k=15 n=32 m=2: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 222222223222223
+k=15 n=33 m=3: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 222222322232223
+k=15 n=34 m=4: two-valued worst stuck j=3 -> bound 4, sim jmin 4  MATCH  trap 222222322323223
+k=15 n=35 m=5: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 222322323223223
+k=15 n=36 m=6: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 223223223232323
+k=15 n=37 m=7: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 223223232332323
+k=16 n=34 m=2: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 2222222232222223
+k=16 n=35 m=3: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 2222222322232223
+k=16 n=36 m=4: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 2222322232232223
+k=16 n=37 m=5: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 2223222322323223
+k=16 n=38 m=6: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 2232232232322323
+k=16 n=39 m=7: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 2232322323232323
+k=16 n=40 m=8: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 2232323233232323
+k=17 n=36 m=2: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 22222222232222223
+k=17 n=37 m=3: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 22222232222322223
+k=17 n=38 m=4: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 22222322232232223
+k=17 n=39 m=5: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 22232223223223223
+k=17 n=40 m=6: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 22232232322323223
+k=17 n=41 m=7: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 22322322323232323
+k=17 n=42 m=8: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 22323223232332323
+k=18 n=38 m=2: two-valued worst stuck j=8 -> bound 9, sim jmin 9  MATCH  trap 222222222322222223
+k=18 n=39 m=3: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 222222232222322223
+k=18 n=40 m=4: two-valued worst stuck j=8 -> bound 9, sim jmin 9  MATCH  trap 222232222322232223
+k=18 n=41 m=5: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 222322232223223223
+k=18 n=42 m=6: two-valued worst stuck j=8 -> bound 9, sim jmin 9  MATCH  trap 222322322323223223
+k=18 n=43 m=7: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 222322323232323223
+k=18 n=44 m=8: two-valued worst stuck j=8 -> bound 9, sim jmin 9  MATCH  trap 223232322323232323
+k=18 n=45 m=9: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 223232323323232323
+k=19 n=40 m=2: two-valued worst stuck j=8 -> bound 9, sim jmin 9  MATCH  trap 2222222222322222223
+k=19 n=41 m=3: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 2222222232222322223
+k=19 n=42 m=4: two-valued worst stuck j=4 -> bound 5, sim jmin 5  MATCH  trap 2222222322232232223
+k=19 n=43 m=5: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 2222322232232232223
+k=19 n=44 m=6: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 2223222322323223223
+k=19 n=45 m=7: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 2232232232232322323
+k=19 n=46 m=8: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 2232322323223232323
+k=19 n=47 m=9: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 2232322323233232323
+k=20 n=42 m=2: two-valued worst stuck j=9 -> bound 10, sim jmin 10  MATCH  trap 22222222223222222223
+k=20 n=43 m=3: two-valued worst stuck j=6 -> bound 7, sim jmin 7  MATCH  trap 22222223222223222223
+k=20 n=44 m=4: two-valued worst stuck j=9 -> bound 10, sim jmin 10  MATCH  trap 22222322223222322223
+k=20 n=45 m=5: two-valued worst stuck j=7 -> bound 8, sim jmin 8  MATCH  trap 22223222322322232223
+k=20 n=46 m=6: two-valued worst stuck j=9 -> bound 10, sim jmin 10  MATCH  trap 22232232223223223223
+k=20 n=47 m=7: two-valued worst stuck j=5 -> bound 6, sim jmin 6  MATCH  trap 22232232322323223223
+k=20 n=48 m=8: two-valued worst stuck j=9 -> bound 10, sim jmin 10  MATCH  trap 22322323223232322323
+k=20 n=49 m=9: two-valued worst stuck j=8 -> bound 9, sim jmin 9  MATCH  trap 22323232232323232323
+k=20 n=50 m=10: two-valued worst stuck j=9 -> bound 10, sim jmin 10  MATCH  trap 22323232323323232323

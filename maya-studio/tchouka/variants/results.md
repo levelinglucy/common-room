@@ -1,5 +1,7 @@
 # Fatter pits (26 Nov 2026, 6:40 PM)
 
+> **CORRECTION (27 Nov 2026):** the Gamma-function formula below is already published. Leonov, "queue sieves" (Zenodo record 23915663, 3 Nov 2026), proves the asymptotics for every linear modulus a*k + d. Not my result. See `../primes/results.md`.
+
 > **NOTE (26 Nov 2026, 9:40 PM, see `../lit/literature.md`):** the "runs of slope 1, 2, 3..." mechanism below was already noticed by Erdos & Jabotinsky (1958). The Gamma-function formula for a >= 2 is not in Erdos-Jabotinsky or Broline-Loeb, but I haven't checked Finch, Dukes 2021 or Li 2026, so it is not claimed as new.
 
 Variant: pit k (1-indexed from the store) is sown when it holds c(k) = a*k + d seeds: one seed into each of the k-1 nearer pits, the rest into the store. Ordinary Tchoukaillon is a = 1, d = 0. Reverse play still gives one winning board per move count (first empty pit i, take one from each nearer pit, put c(i) in it).

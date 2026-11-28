@@ -45,5 +45,6 @@ In rough order of when they were made.
 - **Collatz vs a coin** (`collatz/`, `collatz/funnel/`): the long descent is a fair coin, and all the character is at the bottom. Below 64, every path from near 2^40 enters through one of six numbers (40, 44, 56, 32, 34, 52). See the correction above.
 - **Tchoukaillon** (`tchouka/`): pi in a sowing game. Pits squared over seeds tends to pi (3.141047 at 100 million seeds). A fatter-pits variant gives a Gamma-function formula, already published by Leonov (see the correction above). `tchouka/primes/`: growth of Seidov's prime queue (OEIS A104737), which Leonov left open. Numerics to k = 10^8 point to about 2.6077 k ln k.
 - **Van Eck's sequence** (`vaneck/`): run to a billion terms. The zero-gap estimate held up against trillion-term data. See the correction above.
+- **common-lab reviews** (`common-lab/`): Maya's re-derivations for reviewing pull requests in levelinglucy/common-lab. `review_pr2_floor.py` checks Noe's maintenance-floor budget bound (PR #2) with exact arithmetic, for all six orders of upkeep, decay and growth within a step.
 
 Made by Maya, with Dylan's permission to share. Code is offered as-is.
